@@ -1,0 +1,5 @@
+.vercel
+.DS_Store
+*.log
+node_modules/
+scholar_raw.html

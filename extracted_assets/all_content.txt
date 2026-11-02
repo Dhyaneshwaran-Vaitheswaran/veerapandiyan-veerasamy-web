@@ -1,0 +1,375 @@
+
+
+=== PAGE: HOME ===
+
+--- TEXT ---
+Home
+Search this site
+Embedded Files
+Skip to main content
+Skip to navigation
+Home
+Join Us
+Research &amp; Publications
+Supervision
+PhD
+Masters
+Bachelors
+Research opportunities
+Teaching
+&nbsp;
+Home
+Join Us
+Research &amp; Publications
+Supervision
+PhD
+Masters
+Bachelors
+Research opportunities
+Teaching
+More
+Home
+Join Us
+Research &amp; Publications
+Supervision
+PhD
+Masters
+Bachelors
+Research opportunities
+Teaching
+About me
+Call for Collaborations &amp; Funding Partners
+Key Areas for Collaboration:
+About me
+Call for Collaborations &amp; Funding Partners
+Key Areas for Collaboration:
+About me
+Biography
+Dr. Veerapandiyan Veerasamy
+ is a Lecturer in Cybersecurity at Curtin University, Singapore, specializing in the intersection of cyber-resilience, artificial intelligence, and next-generation energy infrastructure.
+Prior to his current appointment, he served as a Research Fellow at the Electrification and Power Grid Centre (EPGC) / Energy Research Inst
+itute (ERI@N)
+ at 
+Nanyang Technological University (NTU)
+, Singapore. During his five-year tenure at NTU, he successfully executed high-impact, nationally funded research initiatives spanning smart grids, virtual power plants (VPPs), distributed energy resources (DERs), and digital energy systems.
+Dr. Veera’s
+ research is defined by its strong translation from theory to practice. He possesses deep field expertise in the operation, maintenance, and technical standard compliance testing of 
+MW-scale microgrids (both AC and DC systems)
+ and 
+MWh-scale Lithium Iron Phosphate (LFP) Battery Energy Storage Systems (BESS)
+. He is a specialist in Hardware-in-the-Loop (HIL, C-HIL, P-HIL) real-time simulations using OPAL-RT and RTDS platforms.
+A recognized technical authority, he contributes directly to regional and international standardization, offering deep expertise in compliance and regulatory frameworks including 
+IEEE 1547, IEEE 2030, IEC 62898, IEC 61851, TR25, TR77
+, and the 
+EMA Transmission Code
+. Notably, he brings extensive hands-on experience working within 
+SAC-SINGLAS certified laboratory
+ environments specifically for Electric Vehicle (EV) charging infrastructure and Energy Storage System (ESS) validation. Formally trained in 
+ISO/IEC 17025 compliance
+, 
+Dr. Veera
+ bridges the gap between cutting-edge academic research and rigorous, industry-accredited testing and quality management frameworks.
+Professional Experience
+Lecturer in Cybersecurity
+| Curtin University, Singapore 
+(Jun 2026 – Present)
+Leading research and curriculum development focused on securing cyber-physical systems and critical national infrastructure.
+Research Fellow
+ | Nanyang Technological University (NTU), Singapore 
+(Dec 2021 – Jun 2026)
+Joint Appointments:
+ Electrification and Power Grids Centre (EPGC) / Energy Research Institute (ERI@N) &amp; School of EEE.
+Managed and executed million dollar national research projects on smart grid resilience, digital twins, and energy storage integration.
+Part-Time Lecturer 
+(MSc in Power Engineering)
+ | School of EEE, NTU, Singapore 
+(Oct 2024 – Dec 2025)
+Delivered advanced postgraduate coursework Power System Planning and Operation, and Power Quality.
+Assistant Professor
+ | Department of EEE, Rajalakshmi Engineering College, Chennai, India 
+(Jun 2015 – Jun 2018)
+Spearheaded academic modules, mentored undergraduate/postgraduate research, and established industry-aligned laboratory frameworks.
+Call for Collaborations &amp; Funding Partners
+Dr. Veera
+ actively welcomes partnerships with 
+funding agencies, grid operators, original equipment manufacturers (OEMs), and academic institutions
+ to address the urgent challenges of secure and sustainable energy transition.
+Key Areas for Collaboration:
+Grant Partnerships (NRF, EMA, A*STAR)
+:
+ Joint proposals focusing on Singapore Green Plan 2030 initiatives, specifically regarding V2G/V2X standardization, cyber-secure microgrids, and AI-driven grid resilience.
+Industrial Testing &amp; Compliance Consultancy
+:
+ Leveraging deep expertise in 
+ISO/IEC 17025
+, 
+SAC-SINGLAS
+ procedures, 
+TR25/TR77
+, and 
+IEC 61851
+ to assist companies in validating EV charging infrastructure and utility-scale BESS solutions.
+Cyber-Physical Security
+:
+ Conducting high-fidelity HIL, C-HIL, and P-HIL real-time simulations via OPAL-RT/RTDS to perform stress-testing and vulnerability assessments of critical infrastructure assets against cyber-threats.
+Academic and Postdoctoral Collaborations
+:
+ Joint research initiatives on Explainable AI (XAI) applications for power systems, blockchain-enabled energy markets, and advanced hierarchical control loops.
+📬 
+Get in Touch:
+ If you are looking to secure, test, or scale your next-generation energy solutions, please reach out to discuss joint R&amp;D opportunities, contract research, or consulting arrangements.
+Google Sites
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse
+
+--- IMAGES ---
+https://sites.google.com/sitesv-images-rt/AMxu72v5MovYcyQzZtcfiZnJN1hg1j8SgtK0wK0JL6odJ2UgY34ws_1FKUKgMLCvscO2-i3WK0EYMbKknCId2AvzE_BKpHChbbAJPt5qUMDAiwWQZa5_ufEptvSV4YdwU1lD7f7MPdrEf95-tIAHo8mqdDhw_AzygpgRWDlbgZMzm4QZjgTaeHVINfEST0DCTA-eGs8eWHrvX4CuVqJ8U8klfKZrVdCaqWmujK1IfIWwoZQ=w1280
+
+
+=== PAGE: RESEARCH ===
+
+--- TEXT ---
+Research &amp; Publications
+Search this site
+Embedded Files
+Skip to main content
+Skip to navigation
+Home
+Join Us
+Research &amp; Publications
+Supervision
+PhD
+Masters
+Bachelors
+Research opportunities
+Teaching
+&nbsp;
+Home
+Join Us
+Research &amp; Publications
+Supervision
+PhD
+Masters
+Bachelors
+Research opportunities
+Teaching
+More
+Home
+Join Us
+Research &amp; Publications
+Supervision
+PhD
+Masters
+Bachelors
+Research opportunities
+Teaching
+Research Interests
+Infrastructure Cyber-Resilience:
+ Cyber-physical security architectures, blockchain applications, and resilient control systems for critical energy infrastructure.
+Applied Artificial Intelligence
+: 
+Explainable AI (XAI) and neural network architectures for energy network monitoring, optimal sensor placement, and predictive control.
+Next-Gen Power Systems:
+ Grid integration of renewables, hierarchical control of DC microgrids, and standard-compliant V2G/V2X implementations.
+Core Technical Competencies
+Accredited Testing &amp; Quality Assurance:
+ Deep operational familiarity with SAC-SINGLAS accredited laboratory environments; comprehensive training in ISO/IEC 17025 general requirements for the competence of testing and calibration laboratories.
+E-Mobility &amp; Grid Compliance:
+ End-to-end safety, interoperability, and performance testing of EV charging stations (TR25 / IEC 61851) and utility-scale Battery Energy Storage Systems (BESS).
+Advanced Real-Time Emulation: 
+Complex Hardware-in-the-Loop (HIL, Control-HIL, Power-HIL) implementation on OPAL-RT and RTDS platforms for power system stability and cyber-physical resilience audits.
+Industrial Automation:
+ Industrial control programming, data logging, and communication protocols (Modbus, TwinCAT, Beckhoff PLCs).
+Publications: 
+View my Publication List
+Google Sites
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse
+
+--- IMAGES ---
+
+
+
+=== PAGE: SUPERVISION ===
+
+--- TEXT ---
+Supervision
+Search this site
+Embedded Files
+Skip to main content
+Skip to navigation
+Home
+Join Us
+Research &amp; Publications
+Supervision
+PhD
+Masters
+Bachelors
+Research opportunities
+Teaching
+&nbsp;
+Home
+Join Us
+Research &amp; Publications
+Supervision
+PhD
+Masters
+Bachelors
+Research opportunities
+Teaching
+More
+Home
+Join Us
+Research &amp; Publications
+Supervision
+PhD
+Masters
+Bachelors
+Research opportunities
+Teaching
+Dr. Veera is deeply committed to nurturing the next generation of engineers and researchers. His supervision philosophy bridges cutting-edge academic theory with rigorous industrial reality. Students in his group gain hands-on experience with industrial automation, cyber-physical security frameworks, and advanced real-time testing platforms.
+Research Environment &amp; Student Benefits
+By joining Dr. Veerasamy&#39;s research team, students actively engage with:
+Industry-Standard Platforms:
+ Hands-on development using 
+DIgSILENT PowerFactory
+, 
+TwinCAT/Beckhoff PLCs
+, and 
+OPAL-RT/RTDS
+ real-time simulators.
+Accredited Methodologies:
+ Training aligned with 
+ISO/IEC 17025
+ laboratory quality frameworks and national/international standards testing (TR25, TR77, IEEE, IEC).
+Interdisciplinary Skills:
+ Mastery over cyber-physical systems, blending robust power engineering with 
+Explainable AI (XAI)
+, machine learning, and cybersecurity architectures.
+📢 
+Prospective Students:
+ If you are highly motivated to work on the future of secure, sustainable energy infrastructure and possess a strong background in electrical engineering, control systems, or computer science, please review the specific project tracks below and reach out with your CV and a brief research statement via 
+email: 
+veerapandiyan.veerasamy@curtin.edu.sg
+ / veerapandian220@gmail.com.
+Google Sites
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse
+
+--- IMAGES ---
+
+
+
+=== PAGE: TEACHING ===
+
+--- TEXT ---
+Teaching
+Search this site
+Embedded Files
+Skip to main content
+Skip to navigation
+Home
+Join Us
+Research &amp; Publications
+Supervision
+PhD
+Masters
+Bachelors
+Research opportunities
+Teaching
+&nbsp;
+Home
+Join Us
+Research &amp; Publications
+Supervision
+PhD
+Masters
+Bachelors
+Research opportunities
+Teaching
+More
+Home
+Join Us
+Research &amp; Publications
+Supervision
+PhD
+Masters
+Bachelors
+Research opportunities
+Teaching
+Teaching Courses:
+Current Courses:-
+Data Structure and Algorithms
+Computer Systems
+UNIX and C Programming
+Cyber Security Concepts
+Previous Courses:-
+Smart Grids
+Power Quality
+Power System Planning &amp; Operations
+Google Sites
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse
+
+--- IMAGES ---
+
+
+
+=== PAGE: JOIN ===
+
+--- TEXT ---
+Join Us
+Search this site
+Embedded Files
+Skip to main content
+Skip to navigation
+Home
+Join Us
+Research &amp; Publications
+Supervision
+PhD
+Masters
+Bachelors
+Research opportunities
+Teaching
+&nbsp;
+Home
+Join Us
+Research &amp; Publications
+Supervision
+PhD
+Masters
+Bachelors
+Research opportunities
+Teaching
+More
+Home
+Join Us
+Research &amp; Publications
+Supervision
+PhD
+Masters
+Bachelors
+Research opportunities
+Teaching
+Google Sites
+Report abuse
+Page details
+Page updated
+Google Sites
+Report abuse
+
+--- IMAGES ---
+

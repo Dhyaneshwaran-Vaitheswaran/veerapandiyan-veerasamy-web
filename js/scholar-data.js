@@ -1,0 +1,1771 @@
+/**
+ * Dr. Veerapandiyan Veerasamy - Google Scholar Data
+ * Auto-generated on: 2026-11-02T01:28:34.471Z
+ * Publications count: 97
+ */
+window.SCHOLAR_DATA = {
+  "author": {
+    "name": "Veerapandiyan Veerasamy",
+    "affiliation": "Lecturer, Curtin University, Singapore (Top 2% Scientist in Energy 2025-2026)",
+    "scholarId": "vzf72BMAAAAJ",
+    "profileUrl": "https://scholar.google.com/citations?hl=en&user=vzf72BMAAAAJ&view_op=list_works&sortby=pubdate",
+    "honors": "Stanford / Elsevier Top 2% Scientist in Energy (2025-2026)"
+  },
+  "stats": {
+    "citations": {
+      "all": 2936,
+      "since2021": 2838
+    },
+    "hIndex": {
+      "all": 30,
+      "since2021": 30
+    },
+    "i10Index": {
+      "all": 55,
+      "since2021": 55
+    }
+  },
+  "citationHistory": [
+    {
+      "year": 2019,
+      "count": 19
+    },
+    {
+      "year": 2020,
+      "count": 64
+    },
+    {
+      "year": 2021,
+      "count": 163
+    },
+    {
+      "year": 2022,
+      "count": 355
+    },
+    {
+      "year": 2023,
+      "count": 473
+    },
+    {
+      "year": 2024,
+      "count": 653
+    },
+    {
+      "year": 2025,
+      "count": 700
+    },
+    {
+      "year": 2026,
+      "count": 473
+    }
+  ],
+  "lastUpdated": "2026-11-02T01:28:34.468Z",
+  "totalPublications": 97,
+  "publications": [
+    {
+      "id": 1,
+      "title": "Adaptive distributed cascade control using fuzzy-explainable neural networks for frequency stability in microgrids",
+      "authors": "J Kandasamy, S Mahapatra, R Ramachandran, V Veerasamy, B Dey",
+      "publication": "Discover Sustainability, 2026",
+      "year": 2026,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:EUQCXRtRnyEC",
+      "citationsUrl": "",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Springer / Nature",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{kandasamy2026_adaptivedist,\n  title = {Adaptive distributed cascade control using fuzzy-explainable neural networks for frequency stability in microgrids},\n  author = {J Kandasamy, S Mahapatra, R Ramachandran, V Veerasamy, B Dey},\n  journal = {Discover Sustainability, 2026},\n  year = {2026},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:EUQCXRtRnyEC}\n}",
+      "apaCitation": "J Kandasamy, S Mahapatra, R Ramachandran, V Veerasamy, B Dey (2026). Adaptive distributed cascade control using fuzzy-explainable neural networks for frequency stability in microgrids. Discover Sustainability, 2026."
+    },
+    {
+      "id": 2,
+      "title": "A False Data Injection Attack–Resilient State Estimation Framework",
+      "authors": "P Yadav, M Arif, K Chauhan, VK Gaur, V Veerasamy",
+      "publication": "2026 IEEE 6th International Conference on Sustainable Energy and Future …, 2026",
+      "year": 2026,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:b0M2c_1WBrUC",
+      "citationsUrl": "",
+      "type": "Conference",
+      "tags": [
+        "Conference",
+        "IEEE",
+        "Cyber-Physical & Security"
+      ],
+      "bibtex": "@article{yadav2026_afalsedatain,\n  title = {A False Data Injection Attack–Resilient State Estimation Framework},\n  author = {P Yadav, M Arif, K Chauhan, VK Gaur, V Veerasamy},\n  journal = {2026 IEEE 6th International Conference on Sustainable Energy and Future …, 2026},\n  year = {2026},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:b0M2c_1WBrUC}\n}",
+      "apaCitation": "P Yadav, M Arif, K Chauhan, VK Gaur, V Veerasamy (2026). A False Data Injection Attack–Resilient State Estimation Framework. 2026 IEEE 6th International Conference on Sustainable Energy and Future …, 2026."
+    },
+    {
+      "id": 3,
+      "title": "Comparative Performance Analysis of Machine Learning Classifiers for High Impedance Fault Detection in a PV-Integrated Microgrid",
+      "authors": "NN Mahzan, ML Othman, NIA Wahab, V Veerasamy, NA Salim, ...",
+      "publication": "2026 IEEE 6th International Conference in Power Engineering Applications …, 2026",
+      "year": 2026,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:_xSYboBqXhAC",
+      "citationsUrl": "",
+      "type": "Conference",
+      "tags": [
+        "Conference",
+        "IEEE",
+        "Smart Grids & Energy",
+        "Cyber-Physical & Security",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{mahzan2026_comparativep,\n  title = {Comparative Performance Analysis of Machine Learning Classifiers for High Impedance Fault Detection in a PV-Integrated Microgrid},\n  author = {NN Mahzan, ML Othman, NIA Wahab, V Veerasamy, NA Salim, ...},\n  journal = {2026 IEEE 6th International Conference in Power Engineering Applications …, 2026},\n  year = {2026},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:_xSYboBqXhAC}\n}",
+      "apaCitation": "NN Mahzan, ML Othman, NIA Wahab, V Veerasamy, NA Salim, ... (2026). Comparative Performance Analysis of Machine Learning Classifiers for High Impedance Fault Detection in a PV-Integrated Microgrid. 2026 IEEE 6th International Conference in Power Engineering Applications …, 2026."
+    },
+    {
+      "id": 4,
+      "title": "Grid infrastructure and renewables integration for singapore energy transition",
+      "authors": "V Veerasamy, LPMI Sampath, H Qiu, H Huang, Y Li, HD Nguyen, ...",
+      "publication": "Scientific Reports 15 (1), 34405, 2025",
+      "year": 2025,
+      "citations": 14,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:f2IySw72cVMC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8563616411585157421",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{veerasamy2025_gridinfrastr,\n  title = {Grid infrastructure and renewables integration for singapore energy transition},\n  author = {V Veerasamy, LPMI Sampath, H Qiu, H Huang, Y Li, HD Nguyen, ...},\n  journal = {Scientific Reports 15 (1), 34405, 2025},\n  year = {2025},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:f2IySw72cVMC}\n}",
+      "apaCitation": "V Veerasamy, LPMI Sampath, H Qiu, H Huang, Y Li, HD Nguyen, ... (2025). Grid infrastructure and renewables integration for singapore energy transition. Scientific Reports 15 (1), 34405, 2025."
+    },
+    {
+      "id": 5,
+      "title": "Performance analysis of intelligent classifiers for high impedance fault detection in a PV-integrated IEEE-13 bus system",
+      "authors": "NN Mahzan, ML Othman, NIA Wahab, V Veerasamy, NA Salim, ...",
+      "publication": "IEEE Canadian Journal of Electrical and Computer Engineering 48 (2), 98-108, 2025",
+      "year": 2025,
+      "citations": 7,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:pyW8ca7W8N0C",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3801399490915299388",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "IEEE",
+        "Smart Grids & Energy",
+        "Cyber-Physical & Security"
+      ],
+      "bibtex": "@article{mahzan2025_performancea,\n  title = {Performance analysis of intelligent classifiers for high impedance fault detection in a PV-integrated IEEE-13 bus system},\n  author = {NN Mahzan, ML Othman, NIA Wahab, V Veerasamy, NA Salim, ...},\n  journal = {IEEE Canadian Journal of Electrical and Computer Engineering 48 (2), 98-108, 2025},\n  year = {2025},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:pyW8ca7W8N0C}\n}",
+      "apaCitation": "NN Mahzan, ML Othman, NIA Wahab, V Veerasamy, NA Salim, ... (2025). Performance analysis of intelligent classifiers for high impedance fault detection in a PV-integrated IEEE-13 bus system. IEEE Canadian Journal of Electrical and Computer Engineering 48 (2), 98-108, 2025."
+    },
+    {
+      "id": 6,
+      "title": "A Review on Techniques Used for Solving the Economic Load Dispatch Problems: Categorization, Advantages, and Limitations",
+      "authors": "S Nguraa",
+      "publication": "VUBETA, 2025",
+      "year": 2025,
+      "citations": 5,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:D03iK_w7-QYC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14932498785786179989",
+      "type": "Journal",
+      "tags": [
+        "Journal"
+      ],
+      "bibtex": "@article{nguraa2025_areviewontec,\n  title = {A Review on Techniques Used for Solving the Economic Load Dispatch Problems: Categorization, Advantages, and Limitations},\n  author = {S Nguraa},\n  journal = {VUBETA, 2025},\n  year = {2025},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:D03iK_w7-QYC}\n}",
+      "apaCitation": "S Nguraa (2025). A Review on Techniques Used for Solving the Economic Load Dispatch Problems: Categorization, Advantages, and Limitations. VUBETA, 2025."
+    },
+    {
+      "id": 7,
+      "title": "Resilient frequency regulation for microgrids under phasor measurement unit faults and communication intermittency",
+      "authors": "Z Hu, R Su, V Veerasamy, L Huang, R Ma",
+      "publication": "IEEE Transactions on Industrial Informatics 21 (2), 1941-1949, 2024",
+      "year": 2024,
+      "citations": 82,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:cFHS6HbyZ2cC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6884483709445392525",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "IEEE",
+        "Smart Grids & Energy",
+        "Cyber-Physical & Security"
+      ],
+      "bibtex": "@article{hu2024_resilientfre,\n  title = {Resilient frequency regulation for microgrids under phasor measurement unit faults and communication intermittency},\n  author = {Z Hu, R Su, V Veerasamy, L Huang, R Ma},\n  journal = {IEEE Transactions on Industrial Informatics 21 (2), 1941-1949, 2024},\n  year = {2024},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:cFHS6HbyZ2cC}\n}",
+      "apaCitation": "Z Hu, R Su, V Veerasamy, L Huang, R Ma (2024). Resilient frequency regulation for microgrids under phasor measurement unit faults and communication intermittency. IEEE Transactions on Industrial Informatics 21 (2), 1941-1949, 2024."
+    },
+    {
+      "id": 8,
+      "title": "Blockchain-based distributed frequency control of sustainable networked microgrid system with P2P trading",
+      "authors": "AXR Irudayaraj, H Qiu, V Veerasamy, WS Tan, HB Gooi",
+      "publication": "Applied Energy 373, 123849, 2024",
+      "year": 2024,
+      "citations": 27,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:u_35RYKgDlwC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8610394705409744395",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{irudayaraj2024_blockchainba,\n  title = {Blockchain-based distributed frequency control of sustainable networked microgrid system with P2P trading},\n  author = {AXR Irudayaraj, H Qiu, V Veerasamy, WS Tan, HB Gooi},\n  journal = {Applied Energy 373, 123849, 2024},\n  year = {2024},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:u_35RYKgDlwC}\n}",
+      "apaCitation": "AXR Irudayaraj, H Qiu, V Veerasamy, WS Tan, HB Gooi (2024). Blockchain-based distributed frequency control of sustainable networked microgrid system with P2P trading. Applied Energy 373, 123849, 2024."
+    },
+    {
+      "id": 9,
+      "title": "Application of Intelligent Techniques in Power System Stability, Control and Protection",
+      "authors": "SK Singh",
+      "publication": "MDPI-Multidisciplinary Digital Publishing Institute, 2024",
+      "year": 2024,
+      "citations": 1,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:4OULZ7Gr8RgC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15171859234715769547",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "MDPI",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{singh2024_applicationo,\n  title = {Application of Intelligent Techniques in Power System Stability, Control and Protection},\n  author = {SK Singh},\n  journal = {MDPI-Multidisciplinary Digital Publishing Institute, 2024},\n  year = {2024},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:4OULZ7Gr8RgC}\n}",
+      "apaCitation": "SK Singh (2024). Application of Intelligent Techniques in Power System Stability, Control and Protection. MDPI-Multidisciplinary Digital Publishing Institute, 2024."
+    },
+    {
+      "id": 10,
+      "title": "Second-order network for decentralized frequency control of multi-microgrid systems",
+      "authors": "V Veerasamy, AXR Irudayaraj, Z Hu, S Singh, Q Haifeng, HD Nguyen, ...",
+      "publication": "CSEE Journal of Power and Energy Systems, 2024",
+      "year": 2024,
+      "citations": 3,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:fPk4N6BV_jEC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3822482408840255090",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{veerasamy2024_secondordern,\n  title = {Second-order network for decentralized frequency control of multi-microgrid systems},\n  author = {V Veerasamy, AXR Irudayaraj, Z Hu, S Singh, Q Haifeng, HD Nguyen, ...},\n  journal = {CSEE Journal of Power and Energy Systems, 2024},\n  year = {2024},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:fPk4N6BV_jEC}\n}",
+      "apaCitation": "V Veerasamy, AXR Irudayaraj, Z Hu, S Singh, Q Haifeng, HD Nguyen, ... (2024). Second-order network for decentralized frequency control of multi-microgrid systems. CSEE Journal of Power and Energy Systems, 2024."
+    },
+    {
+      "id": 11,
+      "title": "Nasnet-lstm based deep learning classifier for anomaly detection in solar photovoltaic modules",
+      "authors": "S Gopalakrishnan, NIA Wahab, V Veerasamy, H Hizam, RA Farade",
+      "publication": "Journal of Physics: Conference Series 2777 (1), 012006, 2024",
+      "year": 2024,
+      "citations": 8,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:zA6iFVUQeVQC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3088037371347185560",
+      "type": "Conference",
+      "tags": [
+        "Conference",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{gopalakrishnan2024_nasnetlstmba,\n  title = {Nasnet-lstm based deep learning classifier for anomaly detection in solar photovoltaic modules},\n  author = {S Gopalakrishnan, NIA Wahab, V Veerasamy, H Hizam, RA Farade},\n  journal = {Journal of Physics: Conference Series 2777 (1), 012006, 2024},\n  year = {2024},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:zA6iFVUQeVQC}\n}",
+      "apaCitation": "S Gopalakrishnan, NIA Wahab, V Veerasamy, H Hizam, RA Farade (2024). Nasnet-lstm based deep learning classifier for anomaly detection in solar photovoltaic modules. Journal of Physics: Conference Series 2777 (1), 012006, 2024."
+    },
+    {
+      "id": 12,
+      "title": "An optimized frequency control of green energy integrated microgrid power system using modified SSO Algorithm: A. Deepa et al.",
+      "authors": "A Deepa, A Vinayagam, ST Suganthi, T Kumaran, V Veerasamy, ...",
+      "publication": "Soft Computing 28 (9), 6423-6446, 2024",
+      "year": 2024,
+      "citations": 15,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:blknAaTinKkC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3974083540080388439",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{deepa2024_anoptimizedf,\n  title = {An optimized frequency control of green energy integrated microgrid power system using modified SSO Algorithm: A. Deepa et al.},\n  author = {A Deepa, A Vinayagam, ST Suganthi, T Kumaran, V Veerasamy, ...},\n  journal = {Soft Computing 28 (9), 6423-6446, 2024},\n  year = {2024},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:blknAaTinKkC}\n}",
+      "apaCitation": "A Deepa, A Vinayagam, ST Suganthi, T Kumaran, V Veerasamy, ... (2024). An optimized frequency control of green energy integrated microgrid power system using modified SSO Algorithm: A. Deepa et al.. Soft Computing 28 (9), 6423-6446, 2024."
+    },
+    {
+      "id": 13,
+      "title": "Modified multimachine power system design with DFIG-WECS and damping controller",
+      "authors": "A Sabo, T Ebuka Odoh, V Veerasamy, NI Abdul Wahab",
+      "publication": "Energies 17 (8), 1841, 2024",
+      "year": 2024,
+      "citations": 10,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:ZHo1McVdvXMC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9132799034903746224",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "MDPI",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{sabo2024_modifiedmult,\n  title = {Modified multimachine power system design with DFIG-WECS and damping controller},\n  author = {A Sabo, T Ebuka Odoh, V Veerasamy, NI Abdul Wahab},\n  journal = {Energies 17 (8), 1841, 2024},\n  year = {2024},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:ZHo1McVdvXMC}\n}",
+      "apaCitation": "A Sabo, T Ebuka Odoh, V Veerasamy, NI Abdul Wahab (2024). Modified multimachine power system design with DFIG-WECS and damping controller. Energies 17 (8), 1841, 2024."
+    },
+    {
+      "id": 14,
+      "title": "Optimal tuning of virtual inertia control for frequency regulation of microgrid",
+      "authors": "BA Fadheel, NIA Wahab, AJ Mahdi, MABM Radzi, ABC Soh, HM Ridha, ...",
+      "publication": "IEEE Canadian Journal of Electrical and Computer Engineering 47 (2), 60-69, 2024",
+      "year": 2024,
+      "citations": 12,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:SeFeTyx0c_EC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=208504074468153791",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "IEEE",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{fadheel2024_optimaltunin,\n  title = {Optimal tuning of virtual inertia control for frequency regulation of microgrid},\n  author = {BA Fadheel, NIA Wahab, AJ Mahdi, MABM Radzi, ABC Soh, HM Ridha, ...},\n  journal = {IEEE Canadian Journal of Electrical and Computer Engineering 47 (2), 60-69, 2024},\n  year = {2024},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:SeFeTyx0c_EC}\n}",
+      "apaCitation": "BA Fadheel, NIA Wahab, AJ Mahdi, MABM Radzi, ABC Soh, HM Ridha, ... (2024). Optimal tuning of virtual inertia control for frequency regulation of microgrid. IEEE Canadian Journal of Electrical and Computer Engineering 47 (2), 60-69, 2024."
+    },
+    {
+      "id": 15,
+      "title": "A hybrid sparrow search optimized fractional virtual inertia control for frequency regulation of multi-microgrid system",
+      "authors": "BA Fadheel, NIA Wahab, P Manoharan, AJ Mahdi, MABM Radzi, ...",
+      "publication": "IEEE Access 12, 45879-45903, 2024",
+      "year": 2024,
+      "citations": 42,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:HoB7MX3m0LUC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16881292341657622652",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "IEEE",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{fadheel2024_ahybridsparr,\n  title = {A hybrid sparrow search optimized fractional virtual inertia control for frequency regulation of multi-microgrid system},\n  author = {BA Fadheel, NIA Wahab, P Manoharan, AJ Mahdi, MABM Radzi, ...},\n  journal = {IEEE Access 12, 45879-45903, 2024},\n  year = {2024},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:HoB7MX3m0LUC}\n}",
+      "apaCitation": "BA Fadheel, NIA Wahab, P Manoharan, AJ Mahdi, MABM Radzi, ... (2024). A hybrid sparrow search optimized fractional virtual inertia control for frequency regulation of multi-microgrid system. IEEE Access 12, 45879-45903, 2024."
+    },
+    {
+      "id": 16,
+      "title": "A mobile app for blockchain-based peer-to-peer energy trading for distributed energy resources participation",
+      "authors": "T De Zhou, S Singh, V Veerasamy, HB Gooi",
+      "publication": "International Symposium on Sustainable Energy and Technological Advancements …, 2024",
+      "year": 2024,
+      "citations": 2,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:yD5IFk8b50cC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=482990667596183040",
+      "type": "Conference",
+      "tags": [
+        "Conference",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{zhou2024_amobileappfo,\n  title = {A mobile app for blockchain-based peer-to-peer energy trading for distributed energy resources participation},\n  author = {T De Zhou, S Singh, V Veerasamy, HB Gooi},\n  journal = {International Symposium on Sustainable Energy and Technological Advancements …, 2024},\n  year = {2024},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:yD5IFk8b50cC}\n}",
+      "apaCitation": "T De Zhou, S Singh, V Veerasamy, HB Gooi (2024). A mobile app for blockchain-based peer-to-peer energy trading for distributed energy resources participation. International Symposium on Sustainable Energy and Technological Advancements …, 2024."
+    },
+    {
+      "id": 17,
+      "title": "Two-stage robust optimization for assessment of PV hosting capacity based on decision-dependent uncertainty",
+      "authors": "H Qiu, V Veerasamy, C Ning, Q Sun, HB Gooi",
+      "publication": "Journal of Modern Power Systems and Clean Energy 12 (6), 2091-2096, 2024",
+      "year": 2024,
+      "citations": 26,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:pqnbT2bcN3wC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2379285021873818009",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{qiu2024_twostagerobu,\n  title = {Two-stage robust optimization for assessment of PV hosting capacity based on decision-dependent uncertainty},\n  author = {H Qiu, V Veerasamy, C Ning, Q Sun, HB Gooi},\n  journal = {Journal of Modern Power Systems and Clean Energy 12 (6), 2091-2096, 2024},\n  year = {2024},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:pqnbT2bcN3wC}\n}",
+      "apaCitation": "H Qiu, V Veerasamy, C Ning, Q Sun, HB Gooi (2024). Two-stage robust optimization for assessment of PV hosting capacity based on decision-dependent uncertainty. Journal of Modern Power Systems and Clean Energy 12 (6), 2091-2096, 2024."
+    },
+    {
+      "id": 18,
+      "title": "Blockchain-enabled peer-to-peer energy trading and resilient control of microgrids",
+      "authors": "V Veerasamy, Z Hu, H Qiu, S Murshid, HB Gooi, HD Nguyen",
+      "publication": "Applied energy 353, 122107, 2024",
+      "year": 2024,
+      "citations": 106,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:ldfaerwXgEUC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2625752920292017468",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy",
+        "Cyber-Physical & Security",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{veerasamy2024_blockchainen,\n  title = {Blockchain-enabled peer-to-peer energy trading and resilient control of microgrids},\n  author = {V Veerasamy, Z Hu, H Qiu, S Murshid, HB Gooi, HD Nguyen},\n  journal = {Applied energy 353, 122107, 2024},\n  year = {2024},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:ldfaerwXgEUC}\n}",
+      "apaCitation": "V Veerasamy, Z Hu, H Qiu, S Murshid, HB Gooi, HD Nguyen (2024). Blockchain-enabled peer-to-peer energy trading and resilient control of microgrids. Applied energy 353, 122107, 2024."
+    },
+    {
+      "id": 19,
+      "title": "Distributed leader-follower based adaptive consensus control for networked microgrids",
+      "authors": "J Kandasamy, R Ramachandran, V Veerasamy, AXR Irudayaraj",
+      "publication": "Applied Energy 353, 122083, 2024",
+      "year": 2024,
+      "citations": 39,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:2P1L_qKh6hAC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13208633808289003734",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{kandasamy2024_distributedl,\n  title = {Distributed leader-follower based adaptive consensus control for networked microgrids},\n  author = {J Kandasamy, R Ramachandran, V Veerasamy, AXR Irudayaraj},\n  journal = {Applied Energy 353, 122083, 2024},\n  year = {2024},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:2P1L_qKh6hAC}\n}",
+      "apaCitation": "J Kandasamy, R Ramachandran, V Veerasamy, AXR Irudayaraj (2024). Distributed leader-follower based adaptive consensus control for networked microgrids. Applied Energy 353, 122083, 2024."
+    },
+    {
+      "id": 20,
+      "title": "Distributed intelligence for consensus-based frequency control of multi-microgrid network with energy storage system",
+      "authors": "AXR Irudayaraj, NIA Wahab, V Veerasamy, M Premkumar, MAM Radzi, ...",
+      "publication": "Journal of Energy Storage 73, 109183, 2023",
+      "year": 2023,
+      "citations": 20,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:70eg2SAEIzsC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6636690289868861078",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{irudayaraj2023_distributedi,\n  title = {Distributed intelligence for consensus-based frequency control of multi-microgrid network with energy storage system},\n  author = {AXR Irudayaraj, NIA Wahab, V Veerasamy, M Premkumar, MAM Radzi, ...},\n  journal = {Journal of Energy Storage 73, 109183, 2023},\n  year = {2023},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:70eg2SAEIzsC}\n}",
+      "apaCitation": "AXR Irudayaraj, NIA Wahab, V Veerasamy, M Premkumar, MAM Radzi, ... (2023). Distributed intelligence for consensus-based frequency control of multi-microgrid network with energy storage system. Journal of Energy Storage 73, 109183, 2023."
+    },
+    {
+      "id": 21,
+      "title": "A projection and decomposition approach for multi-agent coordinated scheduling in power systems",
+      "authors": "H Qiu, Z Li, H Gao, HD Nguyen, V Veerasamy, HB Gooi",
+      "publication": "Journal of Modern Power Systems and Clean Energy 12 (3), 991-996, 2023",
+      "year": 2023,
+      "citations": 5,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:g5m5HwL7SMYC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5304888236405117854",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{qiu2023_aprojectiona,\n  title = {A projection and decomposition approach for multi-agent coordinated scheduling in power systems},\n  author = {H Qiu, Z Li, H Gao, HD Nguyen, V Veerasamy, HB Gooi},\n  journal = {Journal of Modern Power Systems and Clean Energy 12 (3), 991-996, 2023},\n  year = {2023},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:g5m5HwL7SMYC}\n}",
+      "apaCitation": "H Qiu, Z Li, H Gao, HD Nguyen, V Veerasamy, HB Gooi (2023). A projection and decomposition approach for multi-agent coordinated scheduling in power systems. Journal of Modern Power Systems and Clean Energy 12 (3), 991-996, 2023."
+    },
+    {
+      "id": 22,
+      "title": "Decentralized mixed-integer optimization for robust integrated electricity and heat scheduling",
+      "authors": "H Qiu, A Vinod, S Lu, HB Gooi, G Pan, S Zhang, V Veerasamy",
+      "publication": "Applied Energy 350, 121693, 2023",
+      "year": 2023,
+      "citations": 30,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:vV6vV6tmYwMC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16850229844750808367",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{qiu2023_decentralize,\n  title = {Decentralized mixed-integer optimization for robust integrated electricity and heat scheduling},\n  author = {H Qiu, A Vinod, S Lu, HB Gooi, G Pan, S Zhang, V Veerasamy},\n  journal = {Applied Energy 350, 121693, 2023},\n  year = {2023},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:vV6vV6tmYwMC}\n}",
+      "apaCitation": "H Qiu, A Vinod, S Lu, HB Gooi, G Pan, S Zhang, V Veerasamy (2023). Decentralized mixed-integer optimization for robust integrated electricity and heat scheduling. Applied Energy 350, 121693, 2023."
+    },
+    {
+      "id": 23,
+      "title": "Federated-learning-based distributed frequency control against false data injection attack",
+      "authors": "V Veerasamy, H Qiu, AMYM Ghias, K Chauhan, HD Nguyen, HB Gooi",
+      "publication": "IEEE Transactions on Industrial Electronics 71 (8), 8981-8992, 2023",
+      "year": 2023,
+      "citations": 15,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:M05iB0D1s5AC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5043386252914145754",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "IEEE",
+        "Cyber-Physical & Security",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{veerasamy2023_federatedlea,\n  title = {Federated-learning-based distributed frequency control against false data injection attack},\n  author = {V Veerasamy, H Qiu, AMYM Ghias, K Chauhan, HD Nguyen, HB Gooi},\n  journal = {IEEE Transactions on Industrial Electronics 71 (8), 8981-8992, 2023},\n  year = {2023},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:M05iB0D1s5AC}\n}",
+      "apaCitation": "V Veerasamy, H Qiu, AMYM Ghias, K Chauhan, HD Nguyen, HB Gooi (2023). Federated-learning-based distributed frequency control against false data injection attack. IEEE Transactions on Industrial Electronics 71 (8), 8981-8992, 2023."
+    },
+    {
+      "id": 24,
+      "title": "A voting approach of ensemble classifier for detection of power quality in islanded pv microgrid",
+      "authors": "P Thirusenthil Kumaran, A Vinayagam, ST Suganthi, V Veerasamy, ...",
+      "publication": "IETE Journal of Research 69 (10), 7408-7424, 2023",
+      "year": 2023,
+      "citations": 14,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:isC4tDSrTZIC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9949456038369878483",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{kumaran2023_avotingappro,\n  title = {A voting approach of ensemble classifier for detection of power quality in islanded pv microgrid},\n  author = {P Thirusenthil Kumaran, A Vinayagam, ST Suganthi, V Veerasamy, ...},\n  journal = {IETE Journal of Research 69 (10), 7408-7424, 2023},\n  year = {2023},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:isC4tDSrTZIC}\n}",
+      "apaCitation": "P Thirusenthil Kumaran, A Vinayagam, ST Suganthi, V Veerasamy, ... (2023). A voting approach of ensemble classifier for detection of power quality in islanded pv microgrid. IETE Journal of Research 69 (10), 7408-7424, 2023."
+    },
+    {
+      "id": 25,
+      "title": "Blockchain-based microgrid frequency control and energy trading to incentivize EV aggregator",
+      "authors": "V Veerasamy, S Singh, S Murshid, HD Nguyen, HB Gooi",
+      "publication": "2023 IEEE 3rd International Conference on Sustainable Energy and Future …, 2023",
+      "year": 2023,
+      "citations": 6,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:35N4QoGY0k4C",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5104934409980960711",
+      "type": "Conference",
+      "tags": [
+        "Conference",
+        "IEEE",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{veerasamy2023_blockchainba,\n  title = {Blockchain-based microgrid frequency control and energy trading to incentivize EV aggregator},\n  author = {V Veerasamy, S Singh, S Murshid, HD Nguyen, HB Gooi},\n  journal = {2023 IEEE 3rd International Conference on Sustainable Energy and Future …, 2023},\n  year = {2023},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:35N4QoGY0k4C}\n}",
+      "apaCitation": "V Veerasamy, S Singh, S Murshid, HD Nguyen, HB Gooi (2023). Blockchain-based microgrid frequency control and energy trading to incentivize EV aggregator. 2023 IEEE 3rd International Conference on Sustainable Energy and Future …, 2023."
+    },
+    {
+      "id": 26,
+      "title": "Design and analysis of zeta converter for power factor correction using cascade PSO-GSA-tuned PI and reduced-order SMC",
+      "authors": "M Thirumeni, D Thangavelusamy, V Veerasamy, A Vinayagam, ...",
+      "publication": "IETE Journal of Research 69 (5), 2281-2300, 2023",
+      "year": 2023,
+      "citations": 10,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:M3NEmzRMIkIC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2108433239917845996",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{thirumeni2023_designandana,\n  title = {Design and analysis of zeta converter for power factor correction using cascade PSO-GSA-tuned PI and reduced-order SMC},\n  author = {M Thirumeni, D Thangavelusamy, V Veerasamy, A Vinayagam, ...},\n  journal = {IETE Journal of Research 69 (5), 2281-2300, 2023},\n  year = {2023},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:M3NEmzRMIkIC}\n}",
+      "apaCitation": "M Thirumeni, D Thangavelusamy, V Veerasamy, A Vinayagam, ... (2023). Design and analysis of zeta converter for power factor correction using cascade PSO-GSA-tuned PI and reduced-order SMC. IETE Journal of Research 69 (5), 2281-2300, 2023."
+    },
+    {
+      "id": 27,
+      "title": "Decentralized frequency control of restructured energy system using hybrid intelligent algorithm and non‐linear fractional order proportional integral derivative controller",
+      "authors": "AXR Irudayaraj, NIA Wahab, V Veerasamy, M Premkumar, MAM Radzi, ...",
+      "publication": "IET Renewable Power Generation 17 (8), 2009-2037, 2023",
+      "year": 2023,
+      "citations": 17,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:RYcK_YlVTxYC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5086849342637765110",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{irudayaraj2023_decentralize,\n  title = {Decentralized frequency control of restructured energy system using hybrid intelligent algorithm and non‐linear fractional order proportional integral derivative controller},\n  author = {AXR Irudayaraj, NIA Wahab, V Veerasamy, M Premkumar, MAM Radzi, ...},\n  journal = {IET Renewable Power Generation 17 (8), 2009-2037, 2023},\n  year = {2023},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:RYcK_YlVTxYC}\n}",
+      "apaCitation": "AXR Irudayaraj, NIA Wahab, V Veerasamy, M Premkumar, MAM Radzi, ... (2023). Decentralized frequency control of restructured energy system using hybrid intelligent algorithm and non‐linear fractional order proportional integral derivative controller. IET Renewable Power Generation 17 (8), 2009-2037, 2023."
+    },
+    {
+      "id": 28,
+      "title": "Optimal frequency regulation in multi-microgrid systems using federated learning",
+      "authors": "AXR Irudayaraj, NIA Wahab, V Veerasamy, M Premkumar, ...",
+      "publication": "2023 IEEE IAS Global Conference on Emerging Technologies (GlobConET), 1-6, 2023",
+      "year": 2023,
+      "citations": 3,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:lSLTfruPkqcC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16454691491260080643",
+      "type": "Conference",
+      "tags": [
+        "Conference",
+        "IEEE",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{irudayaraj2023_optimalfrequ,\n  title = {Optimal frequency regulation in multi-microgrid systems using federated learning},\n  author = {AXR Irudayaraj, NIA Wahab, V Veerasamy, M Premkumar, ...},\n  journal = {2023 IEEE IAS Global Conference on Emerging Technologies (GlobConET), 1-6, 2023},\n  year = {2023},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:lSLTfruPkqcC}\n}",
+      "apaCitation": "AXR Irudayaraj, NIA Wahab, V Veerasamy, M Premkumar, ... (2023). Optimal frequency regulation in multi-microgrid systems using federated learning. 2023 IEEE IAS Global Conference on Emerging Technologies (GlobConET), 1-6, 2023."
+    },
+    {
+      "id": 29,
+      "title": "Blockchain-based decentralized frequency control of microgrids using federated learning fractional-order recurrent neural network",
+      "authors": "V Veerasamy, LPMI Sampath, S Singh, HD Nguyen, HB Gooi",
+      "publication": "IEEE transactions on smart grid 15 (1), 1089-1102, 2023",
+      "year": 2023,
+      "citations": 80,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:J_g5lzvAfSwC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15770848051576859234",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "IEEE",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{veerasamy2023_blockchainba,\n  title = {Blockchain-based decentralized frequency control of microgrids using federated learning fractional-order recurrent neural network},\n  author = {V Veerasamy, LPMI Sampath, S Singh, HD Nguyen, HB Gooi},\n  journal = {IEEE transactions on smart grid 15 (1), 1089-1102, 2023},\n  year = {2023},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:J_g5lzvAfSwC}\n}",
+      "apaCitation": "V Veerasamy, LPMI Sampath, S Singh, HD Nguyen, HB Gooi (2023). Blockchain-based decentralized frequency control of microgrids using federated learning fractional-order recurrent neural network. IEEE transactions on smart grid 15 (1), 1089-1102, 2023."
+    },
+    {
+      "id": 30,
+      "title": "Fuzzy-recurrent network based distributed frequency control of multi microgrid system",
+      "authors": "J Kandasamy, R Ramachandran, V Veerasamy, AXR Irudayaraj",
+      "publication": "2023 IEEE IAS Global Conference on Renewable Energy and Hydrogen …, 2023",
+      "year": 2023,
+      "citations": 2,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:NaGl4SEjCO4C",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3023644462248391233",
+      "type": "Conference",
+      "tags": [
+        "Conference",
+        "IEEE",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{kandasamy2023_fuzzyrecurre,\n  title = {Fuzzy-recurrent network based distributed frequency control of multi microgrid system},\n  author = {J Kandasamy, R Ramachandran, V Veerasamy, AXR Irudayaraj},\n  journal = {2023 IEEE IAS Global Conference on Renewable Energy and Hydrogen …, 2023},\n  year = {2023},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:NaGl4SEjCO4C}\n}",
+      "apaCitation": "J Kandasamy, R Ramachandran, V Veerasamy, AXR Irudayaraj (2023). Fuzzy-recurrent network based distributed frequency control of multi microgrid system. 2023 IEEE IAS Global Conference on Renewable Energy and Hydrogen …, 2023."
+    },
+    {
+      "id": 31,
+      "title": "Regional load frequency control of BP-PI wind power generation based on particle swarm optimization",
+      "authors": "J Sun, M Chen, L Kong, Z Hu, V Veerasamy",
+      "publication": "Energies 16 (4), 2015, 2023",
+      "year": 2023,
+      "citations": 21,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:ns9cj8rnVeAC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8694233457988666301",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "MDPI",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{sun2023_regionalload,\n  title = {Regional load frequency control of BP-PI wind power generation based on particle swarm optimization},\n  author = {J Sun, M Chen, L Kong, Z Hu, V Veerasamy},\n  journal = {Energies 16 (4), 2015, 2023},\n  year = {2023},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:ns9cj8rnVeAC}\n}",
+      "apaCitation": "J Sun, M Chen, L Kong, Z Hu, V Veerasamy (2023). Regional load frequency control of BP-PI wind power generation based on particle swarm optimization. Energies 16 (4), 2015, 2023."
+    },
+    {
+      "id": 32,
+      "title": "Atom search optimized FOPI controller of the DC–DC SEPIC model with Matignon’s theorem stability analysis",
+      "authors": "M Sepperumal, CB Venkatramanan, A Vinayagam, V Veerasamy",
+      "publication": "IETE Journal of Research 69 (2), 704-722, 2023",
+      "year": 2023,
+      "citations": 15,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:j3f4tGmQtD8C",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15804311754017098816",
+      "type": "Journal",
+      "tags": [
+        "Journal"
+      ],
+      "bibtex": "@article{sepperumal2023_atomsearchop,\n  title = {Atom search optimized FOPI controller of the DC–DC SEPIC model with Matignon’s theorem stability analysis},\n  author = {M Sepperumal, CB Venkatramanan, A Vinayagam, V Veerasamy},\n  journal = {IETE Journal of Research 69 (2), 704-722, 2023},\n  year = {2023},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:j3f4tGmQtD8C}\n}",
+      "apaCitation": "M Sepperumal, CB Venkatramanan, A Vinayagam, V Veerasamy (2023). Atom search optimized FOPI controller of the DC–DC SEPIC model with Matignon’s theorem stability analysis. IETE Journal of Research 69 (2), 704-722, 2023."
+    },
+    {
+      "id": 33,
+      "title": "Correction to: Electric vehicle charging stations and the employed energy management schemes: a classification based comparative survey (Discover Applied Sciences,(2024), 6, 10 …",
+      "authors": "AR Bhatti, ZB Salam, A Sherefa, M Ahmadipour, V Veerasamy",
+      "publication": "Ain Shams Engineering Journal 14 (1), 2023",
+      "year": 2023,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:abG-DnoFyZgC",
+      "citationsUrl": "",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{bhatti2023_correctionto,\n  title = {Correction to: Electric vehicle charging stations and the employed energy management schemes: a classification based comparative survey (Discover Applied Sciences,(2024), 6, 10 …},\n  author = {AR Bhatti, ZB Salam, A Sherefa, M Ahmadipour, V Veerasamy},\n  journal = {Ain Shams Engineering Journal 14 (1), 2023},\n  year = {2023},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:abG-DnoFyZgC}\n}",
+      "apaCitation": "AR Bhatti, ZB Salam, A Sherefa, M Ahmadipour, V Veerasamy (2023). Correction to: Electric vehicle charging stations and the employed energy management schemes: a classification based comparative survey (Discover Applied Sciences,(2024), 6, 10 …. Ain Shams Engineering Journal 14 (1), 2023."
+    },
+    {
+      "id": 34,
+      "title": "Optimal load shedding scheme using grasshopper optimization algorithm for islanded power system with distributed energy resources",
+      "authors": "M Ahmadipour, MM Othman, Z Salam, M Alrifaey, HM Ridha, ...",
+      "publication": "Ain Shams Engineering Journal 14 (1), 101835, 2023",
+      "year": 2023,
+      "citations": 58,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:TFP_iSt0sucC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17760612401132687378",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{ahmadipour2023_optimalloads,\n  title = {Optimal load shedding scheme using grasshopper optimization algorithm for islanded power system with distributed energy resources},\n  author = {M Ahmadipour, MM Othman, Z Salam, M Alrifaey, HM Ridha, ...},\n  journal = {Ain Shams Engineering Journal 14 (1), 101835, 2023},\n  year = {2023},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:TFP_iSt0sucC}\n}",
+      "apaCitation": "M Ahmadipour, MM Othman, Z Salam, M Alrifaey, HM Ridha, ... (2023). Optimal load shedding scheme using grasshopper optimization algorithm for islanded power system with distributed energy resources. Ain Shams Engineering Journal 14 (1), 101835, 2023."
+    },
+    {
+      "id": 35,
+      "title": "A hybrid grey wolf assisted-sparrow search algorithm for frequency control of RE integrated system",
+      "authors": "BA Fadheel, NIA Wahab, AJ Mahdi, M Premkumar, MABM Radzi, ...",
+      "publication": "Energies 16 (3), 1177, 2023",
+      "year": 2023,
+      "citations": 21,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:GnPB-g6toBAC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1487452054209155449",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "MDPI"
+      ],
+      "bibtex": "@article{fadheel2023_ahybridgreyw,\n  title = {A hybrid grey wolf assisted-sparrow search algorithm for frequency control of RE integrated system},\n  author = {BA Fadheel, NIA Wahab, AJ Mahdi, M Premkumar, MABM Radzi, ...},\n  journal = {Energies 16 (3), 1177, 2023},\n  year = {2023},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:GnPB-g6toBAC}\n}",
+      "apaCitation": "BA Fadheel, NIA Wahab, AJ Mahdi, M Premkumar, MABM Radzi, ... (2023). A hybrid grey wolf assisted-sparrow search algorithm for frequency control of RE integrated system. Energies 16 (3), 1177, 2023."
+    },
+    {
+      "id": 36,
+      "title": "Healthcare solutions using wearable devices",
+      "authors": "AS Sakthi, A Inbamani, R Elango, S Niveda, M Preethi, R Rajalakshmi, ...",
+      "publication": "Smart and Secure Internet of Healthcare Things, 1-16, 2022",
+      "year": 2022,
+      "citations": 3,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:YFjsv_pBGBYC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6891006358531015493",
+      "type": "Journal",
+      "tags": [
+        "Journal"
+      ],
+      "bibtex": "@article{sakthi2022_healthcareso,\n  title = {Healthcare solutions using wearable devices},\n  author = {AS Sakthi, A Inbamani, R Elango, S Niveda, M Preethi, R Rajalakshmi, ...},\n  journal = {Smart and Secure Internet of Healthcare Things, 1-16, 2022},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:YFjsv_pBGBYC}\n}",
+      "apaCitation": "AS Sakthi, A Inbamani, R Elango, S Niveda, M Preethi, R Rajalakshmi, ... (2022). Healthcare solutions using wearable devices. Smart and Secure Internet of Healthcare Things, 1-16, 2022."
+    },
+    {
+      "id": 37,
+      "title": "Cooperative power bidding of smart community grids with an aggregator-prosumer-based hierarchical framework",
+      "authors": "H Qiu, HB Gooi, H Gao, V Veerasamy, Y Li",
+      "publication": "IEEE Transactions on Smart Grid 14 (4), 3032-3045, 2022",
+      "year": 2022,
+      "citations": 12,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:BqipwSGYUEgC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8329813128548070412",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "IEEE",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{qiu2022_cooperativep,\n  title = {Cooperative power bidding of smart community grids with an aggregator-prosumer-based hierarchical framework},\n  author = {H Qiu, HB Gooi, H Gao, V Veerasamy, Y Li},\n  journal = {IEEE Transactions on Smart Grid 14 (4), 3032-3045, 2022},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:BqipwSGYUEgC}\n}",
+      "apaCitation": "H Qiu, HB Gooi, H Gao, V Veerasamy, Y Li (2022). Cooperative power bidding of smart community grids with an aggregator-prosumer-based hierarchical framework. IEEE Transactions on Smart Grid 14 (4), 3032-3045, 2022."
+    },
+    {
+      "id": 38,
+      "title": "Solar, wind and their hybridization integration for multi-machine power system oscillation controllers optimization: a review",
+      "authors": "A Sabo, BY Kolapo, TE Odoh, M Dyari, NI Abdul Wahab, V Veerasamy",
+      "publication": "Energies 16 (1), 24, 2022",
+      "year": 2022,
+      "citations": 40,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:hMod-77fHWUC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18317992538548968133",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "MDPI",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{sabo2022_solarwindand,\n  title = {Solar, wind and their hybridization integration for multi-machine power system oscillation controllers optimization: a review},\n  author = {A Sabo, BY Kolapo, TE Odoh, M Dyari, NI Abdul Wahab, V Veerasamy},\n  journal = {Energies 16 (1), 24, 2022},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:hMod-77fHWUC}\n}",
+      "apaCitation": "A Sabo, BY Kolapo, TE Odoh, M Dyari, NI Abdul Wahab, V Veerasamy (2022). Solar, wind and their hybridization integration for multi-machine power system oscillation controllers optimization: a review. Energies 16 (1), 24, 2022."
+    },
+    {
+      "id": 39,
+      "title": "An Optimized Frequency Control of Green Energy Integrated Microgrid Power System using Modified SSO Algorithm",
+      "authors": "A Vinayagam, S ST, V Veerasamy, AXR Irudayaraj",
+      "publication": "",
+      "year": 2022,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:JV2RwH3_ST0C",
+      "citationsUrl": "",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{vinayagam2022_anoptimizedf,\n  title = {An Optimized Frequency Control of Green Energy Integrated Microgrid Power System using Modified SSO Algorithm},\n  author = {A Vinayagam, S ST, V Veerasamy, AXR Irudayaraj},\n  journal = {},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:JV2RwH3_ST0C}\n}",
+      "apaCitation": "A Vinayagam, S ST, V Veerasamy, AXR Irudayaraj (2022). An Optimized Frequency Control of Green Energy Integrated Microgrid Power System using Modified SSO Algorithm. ."
+    },
+    {
+      "id": 40,
+      "title": "An adaptive Zhang Neural Network controller for Frequency Control of Renewable Energy Integrated System",
+      "authors": "AXR Irudayaraj, NIA Wahab, V Veerasamy, ML Othman, S Singh, HB Gooi",
+      "publication": "2022 IEEE 10th Power India International Conference (PIICON), 1-6, 2022",
+      "year": 2022,
+      "citations": 2,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:RGFaLdJalmkC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4388851252739387323",
+      "type": "Conference",
+      "tags": [
+        "Conference",
+        "IEEE",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{irudayaraj2022_anadaptivezh,\n  title = {An adaptive Zhang Neural Network controller for Frequency Control of Renewable Energy Integrated System},\n  author = {AXR Irudayaraj, NIA Wahab, V Veerasamy, ML Othman, S Singh, HB Gooi},\n  journal = {2022 IEEE 10th Power India International Conference (PIICON), 1-6, 2022},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:RGFaLdJalmkC}\n}",
+      "apaCitation": "AXR Irudayaraj, NIA Wahab, V Veerasamy, ML Othman, S Singh, HB Gooi (2022). An adaptive Zhang Neural Network controller for Frequency Control of Renewable Energy Integrated System. 2022 IEEE 10th Power India International Conference (PIICON), 1-6, 2022."
+    },
+    {
+      "id": 41,
+      "title": "PSO-based model predictive control for load frequency regulation with wind turbines",
+      "authors": "W Fan, Z Hu, V Veerasamy",
+      "publication": "Energies 15 (21), 8219, 2022",
+      "year": 2022,
+      "citations": 47,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:maZDTaKrznsC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7557889003093215877",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "MDPI"
+      ],
+      "bibtex": "@article{fan2022_psobasedmode,\n  title = {PSO-based model predictive control for load frequency regulation with wind turbines},\n  author = {W Fan, Z Hu, V Veerasamy},\n  journal = {Energies 15 (21), 8219, 2022},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:maZDTaKrznsC}\n}",
+      "apaCitation": "W Fan, Z Hu, V Veerasamy (2022). PSO-based model predictive control for load frequency regulation with wind turbines. Energies 15 (21), 8219, 2022."
+    },
+    {
+      "id": 42,
+      "title": "Heterogeneous learning method of ensemble classifiers for identification and classification of power quality events and fault transients in wind power integrated microgrid",
+      "authors": "A Vinayagam, V Veerasamy, M Tariq, A Aziz",
+      "publication": "Sustainable Energy, Grids and Networks 31, 100752, 2022",
+      "year": 2022,
+      "citations": 26,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:bEWYMUwI8FkC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11445507692532696302",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy",
+        "Cyber-Physical & Security",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{vinayagam2022_heterogeneou,\n  title = {Heterogeneous learning method of ensemble classifiers for identification and classification of power quality events and fault transients in wind power integrated microgrid},\n  author = {A Vinayagam, V Veerasamy, M Tariq, A Aziz},\n  journal = {Sustainable Energy, Grids and Networks 31, 100752, 2022},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:bEWYMUwI8FkC}\n}",
+      "apaCitation": "A Vinayagam, V Veerasamy, M Tariq, A Aziz (2022). Heterogeneous learning method of ensemble classifiers for identification and classification of power quality events and fault transients in wind power integrated microgrid. Sustainable Energy, Grids and Networks 31, 100752, 2022."
+    },
+    {
+      "id": 43,
+      "title": "A chaotic search-based hybrid optimization technique for automatic load frequency control of a renewable energy integrated power system",
+      "authors": "N Sundararaju, A Vinayagam, V Veerasamy, G Subramaniam",
+      "publication": "Sustainability 14 (9), 5668, 2022",
+      "year": 2022,
+      "citations": 30,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:iH-uZ7U-co4C",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13822230986033942489",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{sundararaju2022_achaoticsear,\n  title = {A chaotic search-based hybrid optimization technique for automatic load frequency control of a renewable energy integrated power system},\n  author = {N Sundararaju, A Vinayagam, V Veerasamy, G Subramaniam},\n  journal = {Sustainability 14 (9), 5668, 2022},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:iH-uZ7U-co4C}\n}",
+      "apaCitation": "N Sundararaju, A Vinayagam, V Veerasamy, G Subramaniam (2022). A chaotic search-based hybrid optimization technique for automatic load frequency control of a renewable energy integrated power system. Sustainability 14 (9), 5668, 2022."
+    },
+    {
+      "id": 44,
+      "title": "Design of single-and multi-loop self-adaptive PID controller using heuristic based recurrent neural network for ALFC of hybrid power system",
+      "authors": "V Veerasamy, NIA Wahab, R Ramachandran, ML Othman, H Hizam, ...",
+      "publication": "Expert Systems with Applications 192, 116402, 2022",
+      "year": 2022,
+      "citations": 68,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:e5wmG9Sq2KIC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18285957946938095518",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{veerasamy2022_designofsing,\n  title = {Design of single-and multi-loop self-adaptive PID controller using heuristic based recurrent neural network for ALFC of hybrid power system},\n  author = {V Veerasamy, NIA Wahab, R Ramachandran, ML Othman, H Hizam, ...},\n  journal = {Expert Systems with Applications 192, 116402, 2022},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:e5wmG9Sq2KIC}\n}",
+      "apaCitation": "V Veerasamy, NIA Wahab, R Ramachandran, ML Othman, H Hizam, ... (2022). Design of single-and multi-loop self-adaptive PID controller using heuristic based recurrent neural network for ALFC of hybrid power system. Expert Systems with Applications 192, 116402, 2022."
+    },
+    {
+      "id": 45,
+      "title": "A comprehensive analysis of numerical techniques for estimation of solar PV parameters under dynamic environmental condition",
+      "authors": "M Balasubramonian, R Ramachandran, V Veerasamy, PACP Albert, ...",
+      "publication": "Smart Grids and Microgrids: Technology Evolution, 1-26, 2022",
+      "year": 2022,
+      "citations": 2,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:k_IJM867U9cC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2565979011623396672",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{balasubramonian2022_acomprehensi,\n  title = {A comprehensive analysis of numerical techniques for estimation of solar PV parameters under dynamic environmental condition},\n  author = {M Balasubramonian, R Ramachandran, V Veerasamy, PACP Albert, ...},\n  journal = {Smart Grids and Microgrids: Technology Evolution, 1-26, 2022},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:k_IJM867U9cC}\n}",
+      "apaCitation": "M Balasubramonian, R Ramachandran, V Veerasamy, PACP Albert, ... (2022). A comprehensive analysis of numerical techniques for estimation of solar PV parameters under dynamic environmental condition. Smart Grids and Microgrids: Technology Evolution, 1-26, 2022."
+    },
+    {
+      "id": 46,
+      "title": "Renewable sources-based automatic load frequency control of interconnected systems using chaotic atom search optimization",
+      "authors": "AXR Irudayaraj, NIA Wahab, M Premkumar, MAM Radzi, NB Sulaiman, ...",
+      "publication": "Applied Soft Computing 119, 108574, 2022",
+      "year": 2022,
+      "citations": 89,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:4JMBOYKVnBMC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5944089849712359630",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{irudayaraj2022_renewablesou,\n  title = {Renewable sources-based automatic load frequency control of interconnected systems using chaotic atom search optimization},\n  author = {AXR Irudayaraj, NIA Wahab, M Premkumar, MAM Radzi, NB Sulaiman, ...},\n  journal = {Applied Soft Computing 119, 108574, 2022},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:4JMBOYKVnBMC}\n}",
+      "apaCitation": "AXR Irudayaraj, NIA Wahab, M Premkumar, MAM Radzi, NB Sulaiman, ... (2022). Renewable sources-based automatic load frequency control of interconnected systems using chaotic atom search optimization. Applied Soft Computing 119, 108574, 2022."
+    },
+    {
+      "id": 47,
+      "title": "Automatic load frequency control for interconnected micro-grid system",
+      "authors": "J Kandasamy, R Ramachandran, V Veerasamy",
+      "publication": "2022 International Conference on Electronics and Renewable Systems (ICEARS …, 2022",
+      "year": 2022,
+      "citations": 7,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:r0BpntZqJG4C",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6669283317018664799",
+      "type": "Conference",
+      "tags": [
+        "Conference",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{kandasamy2022_automaticloa,\n  title = {Automatic load frequency control for interconnected micro-grid system},\n  author = {J Kandasamy, R Ramachandran, V Veerasamy},\n  journal = {2022 International Conference on Electronics and Renewable Systems (ICEARS …, 2022},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:r0BpntZqJG4C}\n}",
+      "apaCitation": "J Kandasamy, R Ramachandran, V Veerasamy (2022). Automatic load frequency control for interconnected micro-grid system. 2022 International Conference on Electronics and Renewable Systems (ICEARS …, 2022."
+    },
+    {
+      "id": 48,
+      "title": "A random subspace ensemble classification model for discrimination of power quality events in solar PV microgrid power network",
+      "authors": "A Vinayagam, ML Othman, V Veerasamy, S Saravan Balaji, K Ramaiyan, ...",
+      "publication": "PloS one 17 (1), e0262570, 2022",
+      "year": 2022,
+      "citations": 17,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:RHpTSmoSYBkC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14882972822836817511",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{vinayagam2022_arandomsubsp,\n  title = {A random subspace ensemble classification model for discrimination of power quality events in solar PV microgrid power network},\n  author = {A Vinayagam, ML Othman, V Veerasamy, S Saravan Balaji, K Ramaiyan, ...},\n  journal = {PloS one 17 (1), e0262570, 2022},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:RHpTSmoSYBkC}\n}",
+      "apaCitation": "A Vinayagam, ML Othman, V Veerasamy, S Saravan Balaji, K Ramaiyan, ... (2022). A random subspace ensemble classification model for discrimination of power quality events in solar PV microgrid power network. PloS one 17 (1), e0262570, 2022."
+    },
+    {
+      "id": 49,
+      "title": "A KNN based random subspace ensemble classifier for detection and discrimination of high impedance fault in PV integrated power network",
+      "authors": "KSV Swarna, A Vinayagam, MBJ Ananth, PV Kumar, V Veerasamy, ...",
+      "publication": "Measurement 187, 110333, 2022",
+      "year": 2022,
+      "citations": 143,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:HDshCWvjkbEC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17790162921166410884",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy",
+        "Cyber-Physical & Security"
+      ],
+      "bibtex": "@article{swarna2022_aknnbasedran,\n  title = {A KNN based random subspace ensemble classifier for detection and discrimination of high impedance fault in PV integrated power network},\n  author = {KSV Swarna, A Vinayagam, MBJ Ananth, PV Kumar, V Veerasamy, ...},\n  journal = {Measurement 187, 110333, 2022},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:HDshCWvjkbEC}\n}",
+      "apaCitation": "KSV Swarna, A Vinayagam, MBJ Ananth, PV Kumar, V Veerasamy, ... (2022). A KNN based random subspace ensemble classifier for detection and discrimination of high impedance fault in PV integrated power network. Measurement 187, 110333, 2022."
+    },
+    {
+      "id": 50,
+      "title": "Power flow solution using a novel generalized linear Hopfield network based on Moore–Penrose pseudoinverse",
+      "authors": "V Veerasamy, NIA Wahab, R Ramachandran, S Kamel, ML Othman, ...",
+      "publication": "Neural Computing &amp; Applications, 2021",
+      "year": 2021,
+      "citations": 6,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:dhFuZR0502QC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6750082174829442034",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{veerasamy2021_powerflowsol,\n  title = {Power flow solution using a novel generalized linear Hopfield network based on Moore–Penrose pseudoinverse},\n  author = {V Veerasamy, NIA Wahab, R Ramachandran, S Kamel, ML Othman, ...},\n  journal = {Neural Computing &amp; Applications, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:dhFuZR0502QC}\n}",
+      "apaCitation": "V Veerasamy, NIA Wahab, R Ramachandran, S Kamel, ML Othman, ... (2021). Power flow solution using a novel generalized linear Hopfield network based on Moore–Penrose pseudoinverse. Neural Computing &amp; Applications, 2021."
+    },
+    {
+      "id": 51,
+      "title": "Artificial intelligence and Internet of things for renewable energy systems",
+      "authors": "A Inbamani, P Umapathy, K Chinnasamy, V Veerasamy, SV Kumar",
+      "publication": "Artificial Intelligence and Internet of Things for Renewable Energy Systems …, 2021",
+      "year": 2021,
+      "citations": 15,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:bFI3QPDXJZMC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10885123282398738478",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{inbamani2021_artificialin,\n  title = {Artificial intelligence and Internet of things for renewable energy systems},\n  author = {A Inbamani, P Umapathy, K Chinnasamy, V Veerasamy, SV Kumar},\n  journal = {Artificial Intelligence and Internet of Things for Renewable Energy Systems …, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:bFI3QPDXJZMC}\n}",
+      "apaCitation": "A Inbamani, P Umapathy, K Chinnasamy, V Veerasamy, SV Kumar (2021). Artificial intelligence and Internet of things for renewable energy systems. Artificial Intelligence and Internet of Things for Renewable Energy Systems …, 2021."
+    },
+    {
+      "id": 52,
+      "title": "Artificial intelligence and internet of things for renewable energy systems",
+      "authors": "N Priyadarshi, S Padmanaban, KK Hiran, JB Holm-Nielson, RC Bansal",
+      "publication": "Walter de Gruyter GmbH &amp; Co KG, 2021",
+      "year": 2021,
+      "citations": 11,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:TQgYirikUcIC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2411506093686394368",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{priyadarshi2021_artificialin,\n  title = {Artificial intelligence and internet of things for renewable energy systems},\n  author = {N Priyadarshi, S Padmanaban, KK Hiran, JB Holm-Nielson, RC Bansal},\n  journal = {Walter de Gruyter GmbH &amp; Co KG, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:TQgYirikUcIC}\n}",
+      "apaCitation": "N Priyadarshi, S Padmanaban, KK Hiran, JB Holm-Nielson, RC Bansal (2021). Artificial intelligence and internet of things for renewable energy systems. Walter de Gruyter GmbH &amp; Co KG, 2021."
+    },
+    {
+      "id": 53,
+      "title": "Recurrent network based power flow solution for voltage stability assessment and improvement with distributed energy sources",
+      "authors": "V Veerasamy, NIA Wahab, R Ramachandran, ML Othman, H Hizam, ...",
+      "publication": "Applied Energy 302, 117524, 2021",
+      "year": 2021,
+      "citations": 44,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:hFOr9nPyWt4C",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8949289055882196612",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{veerasamy2021_recurrentnet,\n  title = {Recurrent network based power flow solution for voltage stability assessment and improvement with distributed energy sources},\n  author = {V Veerasamy, NIA Wahab, R Ramachandran, ML Othman, H Hizam, ...},\n  journal = {Applied Energy 302, 117524, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:hFOr9nPyWt4C}\n}",
+      "apaCitation": "V Veerasamy, NIA Wahab, R Ramachandran, ML Othman, H Hizam, ... (2021). Recurrent network based power flow solution for voltage stability assessment and improvement with distributed energy sources. Applied Energy 302, 117524, 2021."
+    },
+    {
+      "id": 54,
+      "title": "Detection and classification of multiple power quality disturbances in Microgrid network using probabilistic based intelligent classifier",
+      "authors": "ST Suganthi, A Vinayagam, V Veerasamy, A Deepa, M Abouhawwash, ...",
+      "publication": "Sustainable Energy Technologies and Assessments 47, 101470, 2021",
+      "year": 2021,
+      "citations": 108,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:-f6ydRqryjwC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18180777884657133236",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{suganthi2021_detectionand,\n  title = {Detection and classification of multiple power quality disturbances in Microgrid network using probabilistic based intelligent classifier},\n  author = {ST Suganthi, A Vinayagam, V Veerasamy, A Deepa, M Abouhawwash, ...},\n  journal = {Sustainable Energy Technologies and Assessments 47, 101470, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:-f6ydRqryjwC}\n}",
+      "apaCitation": "ST Suganthi, A Vinayagam, V Veerasamy, A Deepa, M Abouhawwash, ... (2021). Detection and classification of multiple power quality disturbances in Microgrid network using probabilistic based intelligent classifier. Sustainable Energy Technologies and Assessments 47, 101470, 2021."
+    },
+    {
+      "id": 55,
+      "title": "Marine predators algorithm for solving single-objective optimal power flow",
+      "authors": "MZ Islam, ML Othman, NI Abdul Wahab, V Veerasamy, SR Opu, ...",
+      "publication": "PLoS One 16 (8), e0256050, 2021",
+      "year": 2021,
+      "citations": 62,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:mB3voiENLucC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=99047260164168041",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{islam2021_marinepredat,\n  title = {Marine predators algorithm for solving single-objective optimal power flow},\n  author = {MZ Islam, ML Othman, NI Abdul Wahab, V Veerasamy, SR Opu, ...},\n  journal = {PLoS One 16 (8), e0256050, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:mB3voiENLucC}\n}",
+      "apaCitation": "MZ Islam, ML Othman, NI Abdul Wahab, V Veerasamy, SR Opu, ... (2021). Marine predators algorithm for solving single-objective optimal power flow. PLoS One 16 (8), e0256050, 2021."
+    },
+    {
+      "id": 56,
+      "title": "The effect of interfacial zone due to nanoparticle–surfactant interaction on dielectric properties of vegetable oil based nanofluids",
+      "authors": "RA Farade, NIA Wahab, DEA Mansour, NB Azis, JB Jasni, V Veerasamy, ...",
+      "publication": "IEEE Access 9, 107033-107045, 2021",
+      "year": 2021,
+      "citations": 59,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:hC7cP41nSMkC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17531729365472685233",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "IEEE"
+      ],
+      "bibtex": "@article{farade2021_theeffectofi,\n  title = {The effect of interfacial zone due to nanoparticle–surfactant interaction on dielectric properties of vegetable oil based nanofluids},\n  author = {RA Farade, NIA Wahab, DEA Mansour, NB Azis, JB Jasni, V Veerasamy, ...},\n  journal = {IEEE Access 9, 107033-107045, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:hC7cP41nSMkC}\n}",
+      "apaCitation": "RA Farade, NIA Wahab, DEA Mansour, NB Azis, JB Jasni, V Veerasamy, ... (2021). The effect of interfacial zone due to nanoparticle–surfactant interaction on dielectric properties of vegetable oil based nanofluids. IEEE Access 9, 107033-107045, 2021."
+    },
+    {
+      "id": 57,
+      "title": "An ensemble approach of classification model for detection and classification of power quality disturbances in PV integrated microgrid network",
+      "authors": "A Vinayagam, V Veerasamy, P Radhakrishnan, M Sepperumal, ...",
+      "publication": "Applied soft computing 106, 107294, 2021",
+      "year": 2021,
+      "citations": 56,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:ZeXyd9-uunAC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17363680190454043979",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{vinayagam2021_anensembleap,\n  title = {An ensemble approach of classification model for detection and classification of power quality disturbances in PV integrated microgrid network},\n  author = {A Vinayagam, V Veerasamy, P Radhakrishnan, M Sepperumal, ...},\n  journal = {Applied soft computing 106, 107294, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:ZeXyd9-uunAC}\n}",
+      "apaCitation": "A Vinayagam, V Veerasamy, P Radhakrishnan, M Sepperumal, ... (2021). An ensemble approach of classification model for detection and classification of power quality disturbances in PV integrated microgrid network. Applied soft computing 106, 107294, 2021."
+    },
+    {
+      "id": 58,
+      "title": "A hybrid MFO‐GHNN tuned self‐adaptive FOPID controller for ALFC of renewable energy integrated hybrid power system",
+      "authors": "R Ramachandran, J Satheesh Kumar, B Madasamy, V Veerasamy",
+      "publication": "IET Renewable Power Generation 15 (7), 1582-1595, 2021",
+      "year": 2021,
+      "citations": 32,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:7PzlFSSx8tAC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15479837388963668377",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{ramachandran2021_ahybridmfogh,\n  title = {A hybrid MFO‐GHNN tuned self‐adaptive FOPID controller for ALFC of renewable energy integrated hybrid power system},\n  author = {R Ramachandran, J Satheesh Kumar, B Madasamy, V Veerasamy},\n  journal = {IET Renewable Power Generation 15 (7), 1582-1595, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:7PzlFSSx8tAC}\n}",
+      "apaCitation": "R Ramachandran, J Satheesh Kumar, B Madasamy, V Veerasamy (2021). A hybrid MFO‐GHNN tuned self‐adaptive FOPID controller for ALFC of renewable energy integrated hybrid power system. IET Renewable Power Generation 15 (7), 1582-1595, 2021."
+    },
+    {
+      "id": 59,
+      "title": "A stacking ensemble classification model for detection and classification of power quality disturbances in PV integrated power network",
+      "authors": "P Radhakrishnan, K Ramaiyan, A Vinayagam, V Veerasamy",
+      "publication": "Measurement 175, 109025, 2021",
+      "year": 2021,
+      "citations": 70,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:aqlVkmm33-oC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16805089152580319659",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{radhakrishnan2021_astackingens,\n  title = {A stacking ensemble classification model for detection and classification of power quality disturbances in PV integrated power network},\n  author = {P Radhakrishnan, K Ramaiyan, A Vinayagam, V Veerasamy},\n  journal = {Measurement 175, 109025, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:aqlVkmm33-oC}\n}",
+      "apaCitation": "P Radhakrishnan, K Ramaiyan, A Vinayagam, V Veerasamy (2021). A stacking ensemble classification model for detection and classification of power quality disturbances in PV integrated power network. Measurement 175, 109025, 2021."
+    },
+    {
+      "id": 60,
+      "title": "Investigation of the effect of sonication time on dispersion stability, dielectric properties, and heat transfer of graphene based green nanofluids",
+      "authors": "RA Farade, NIA Wahab, DEA Mansour, NB Azis, JB Jasni, V Veerasamy, ...",
+      "publication": "IEEE Access 9, 50607-50623, 2021",
+      "year": 2021,
+      "citations": 69,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:IWHjjKOFINEC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10744926218622163386",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "IEEE"
+      ],
+      "bibtex": "@article{farade2021_investigatio,\n  title = {Investigation of the effect of sonication time on dispersion stability, dielectric properties, and heat transfer of graphene based green nanofluids},\n  author = {RA Farade, NIA Wahab, DEA Mansour, NB Azis, JB Jasni, V Veerasamy, ...},\n  journal = {IEEE Access 9, 50607-50623, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:IWHjjKOFINEC}\n}",
+      "apaCitation": "RA Farade, NIA Wahab, DEA Mansour, NB Azis, JB Jasni, V Veerasamy, ... (2021). Investigation of the effect of sonication time on dispersion stability, dielectric properties, and heat transfer of graphene based green nanofluids. IEEE Access 9, 50607-50623, 2021."
+    },
+    {
+      "id": 61,
+      "title": "LSTM Recurrent Neural Network Classifier for High Impedance Fault Detection in Solar PV Integrated Power System",
+      "authors": "V Veerasamy, NIA Wahab, R Ramachandran, A Vinayagam, ML Othman, ...",
+      "publication": "IEEE Access 9 (2021), 32672-32687, 2021",
+      "year": 2021,
+      "citations": 275,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:QIV2ME_5wuYC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4815949318427048533",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "IEEE",
+        "Smart Grids & Energy",
+        "Cyber-Physical & Security",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{veerasamy2021_lstmrecurren,\n  title = {LSTM Recurrent Neural Network Classifier for High Impedance Fault Detection in Solar PV Integrated Power System},\n  author = {V Veerasamy, NIA Wahab, R Ramachandran, A Vinayagam, ML Othman, ...},\n  journal = {IEEE Access 9 (2021), 32672-32687, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:QIV2ME_5wuYC}\n}",
+      "apaCitation": "V Veerasamy, NIA Wahab, R Ramachandran, A Vinayagam, ML Othman, ... (2021). LSTM Recurrent Neural Network Classifier for High Impedance Fault Detection in Solar PV Integrated Power System. IEEE Access 9 (2021), 32672-32687, 2021."
+    },
+    {
+      "id": 62,
+      "title": "Optimal Ice Thermal Energy Storage Charging Operation of Chiller Plant during Off-peak Hours",
+      "authors": "SR Shaari, ML Othman, H Hizam, V Veerasamy, NY Dahlan, ...",
+      "publication": "",
+      "year": 2021,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:_Qo2XoVZTnwC",
+      "citationsUrl": "",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{shaari2021_optimaliceth,\n  title = {Optimal Ice Thermal Energy Storage Charging Operation of Chiller Plant during Off-peak Hours},\n  author = {SR Shaari, ML Othman, H Hizam, V Veerasamy, NY Dahlan, ...},\n  journal = {},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:_Qo2XoVZTnwC}\n}",
+      "apaCitation": "SR Shaari, ML Othman, H Hizam, V Veerasamy, NY Dahlan, ... (2021). Optimal Ice Thermal Energy Storage Charging Operation of Chiller Plant during Off-peak Hours. ."
+    },
+    {
+      "id": 63,
+      "title": "Load flow analysis using Intelligence-based hopfield neural network for voltage stability assessment",
+      "authors": "V Veerasamy, NIA Wahab, R Ramachandran, ML Othman, H Hizam, ...",
+      "publication": "2020 2nd International Conference on Smart Power &amp; Internet Energy Systems …, 2020",
+      "year": 2020,
+      "citations": 5,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:qxL8FJ1GzNcC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3163252951017696627",
+      "type": "Conference",
+      "tags": [
+        "Conference",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{veerasamy2020_loadflowanal,\n  title = {Load flow analysis using Intelligence-based hopfield neural network for voltage stability assessment},\n  author = {V Veerasamy, NIA Wahab, R Ramachandran, ML Othman, H Hizam, ...},\n  journal = {2020 2nd International Conference on Smart Power &amp; Internet Energy Systems …, 2020},\n  year = {2020},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:qxL8FJ1GzNcC}\n}",
+      "apaCitation": "V Veerasamy, NIA Wahab, R Ramachandran, ML Othman, H Hizam, ... (2020). Load flow analysis using Intelligence-based hopfield neural network for voltage stability assessment. 2020 2nd International Conference on Smart Power &amp; Internet Energy Systems …, 2020."
+    },
+    {
+      "id": 64,
+      "title": "A Matignon’s theorem based stability analysis of hybrid power system for automatic load frequency control using atom search optimized FOPID controller",
+      "authors": "AXR Irudayaraj, NIA Wahab, MG Umamaheswari, MAM Radzi, ...",
+      "publication": "IEEE Access 8, 168751-168772, 2020",
+      "year": 2020,
+      "citations": 108,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:M3ejUd6NZC8C",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5821652763127247251",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "IEEE",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{irudayaraj2020_amatignonsth,\n  title = {A Matignon’s theorem based stability analysis of hybrid power system for automatic load frequency control using atom search optimized FOPID controller},\n  author = {AXR Irudayaraj, NIA Wahab, MG Umamaheswari, MAM Radzi, ...},\n  journal = {IEEE Access 8, 168751-168772, 2020},\n  year = {2020},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:M3ejUd6NZC8C}\n}",
+      "apaCitation": "AXR Irudayaraj, NIA Wahab, MG Umamaheswari, MAM Radzi, ... (2020). A Matignon’s theorem based stability analysis of hybrid power system for automatic load frequency control using atom search optimized FOPID controller. IEEE Access 8, 168751-168772, 2020."
+    },
+    {
+      "id": 65,
+      "title": "A novel rk4-hopfield neural network for power flow analysis of power system",
+      "authors": "V Veerasamy, NIA Wahab, R Ramachandran, B Madasamy, M Mansoor, ...",
+      "publication": "Applied Soft Computing 93, 106346, 2020",
+      "year": 2020,
+      "citations": 25,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:Zph67rFs4hoC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17098886984697478881",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{veerasamy2020_anovelrk4hop,\n  title = {A novel rk4-hopfield neural network for power flow analysis of power system},\n  author = {V Veerasamy, NIA Wahab, R Ramachandran, B Madasamy, M Mansoor, ...},\n  journal = {Applied Soft Computing 93, 106346, 2020},\n  year = {2020},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:Zph67rFs4hoC}\n}",
+      "apaCitation": "V Veerasamy, NIA Wahab, R Ramachandran, B Madasamy, M Mansoor, ... (2020). A novel rk4-hopfield neural network for power flow analysis of power system. Applied Soft Computing 93, 106346, 2020."
+    },
+    {
+      "id": 66,
+      "title": "A Harris Hawks optimization based single-and multi-objective optimal power flow considering environmental emission",
+      "authors": "MZ Islam, NIA Wahab, V Veerasamy, H Hizam, NF Mailah, JM Guerrero, ...",
+      "publication": "Sustainability 12 (13), 5248, 2020",
+      "year": 2020,
+      "citations": 104,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:YOwf2qJgpHMC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8895307280220210918",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{islam2020_aharrishawks,\n  title = {A Harris Hawks optimization based single-and multi-objective optimal power flow considering environmental emission},\n  author = {MZ Islam, NIA Wahab, V Veerasamy, H Hizam, NF Mailah, JM Guerrero, ...},\n  journal = {Sustainability 12 (13), 5248, 2020},\n  year = {2020},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:YOwf2qJgpHMC}\n}",
+      "apaCitation": "MZ Islam, NIA Wahab, V Veerasamy, H Hizam, NF Mailah, JM Guerrero, ... (2020). A Harris Hawks optimization based single-and multi-objective optimal power flow considering environmental emission. Sustainability 12 (13), 5248, 2020."
+    },
+    {
+      "id": 67,
+      "title": "A novel discrete wavelet transform‐based graphical language classifier for identification of high‐impedance fault in distribution power system",
+      "authors": "V Veerasamy, NI Abdul Wahab, A Vinayagam, ML Othman, ...",
+      "publication": "International Transactions on Electrical Energy Systems 30 (6), e12378, 2020",
+      "year": 2020,
+      "citations": 31,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:kNdYIx-mwKoC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14376802313617640326",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy",
+        "Cyber-Physical & Security"
+      ],
+      "bibtex": "@article{veerasamy2020_anoveldiscre,\n  title = {A novel discrete wavelet transform‐based graphical language classifier for identification of high‐impedance fault in distribution power system},\n  author = {V Veerasamy, NI Abdul Wahab, A Vinayagam, ML Othman, ...},\n  journal = {International Transactions on Electrical Energy Systems 30 (6), e12378, 2020},\n  year = {2020},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:kNdYIx-mwKoC}\n}",
+      "apaCitation": "V Veerasamy, NI Abdul Wahab, A Vinayagam, ML Othman, ... (2020). A novel discrete wavelet transform‐based graphical language classifier for identification of high‐impedance fault in distribution power system. International Transactions on Electrical Energy Systems 30 (6), e12378, 2020."
+    },
+    {
+      "id": 68,
+      "title": "A Hankel matrix based reduced order model for stability analysis of hybrid power system using PSO-GSA optimized cascade PI-PD controller for automatic load frequency control",
+      "authors": "V Veerasamy, NIA Wahab, R Ramachandran, ML Othman, H Hizam, ...",
+      "publication": "IEEE Access 8, 71422-71446, 2020",
+      "year": 2020,
+      "citations": 158,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:KlAtU1dfN6UC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8760436353470567758",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "IEEE",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{veerasamy2020_ahankelmatri,\n  title = {A Hankel matrix based reduced order model for stability analysis of hybrid power system using PSO-GSA optimized cascade PI-PD controller for automatic load frequency control},\n  author = {V Veerasamy, NIA Wahab, R Ramachandran, ML Othman, H Hizam, ...},\n  journal = {IEEE Access 8, 71422-71446, 2020},\n  year = {2020},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:KlAtU1dfN6UC}\n}",
+      "apaCitation": "V Veerasamy, NIA Wahab, R Ramachandran, ML Othman, H Hizam, ... (2020). A Hankel matrix based reduced order model for stability analysis of hybrid power system using PSO-GSA optimized cascade PI-PD controller for automatic load frequency control. IEEE Access 8, 71422-71446, 2020."
+    },
+    {
+      "id": 69,
+      "title": "Generation fuel cost and loss minimization using salp swarm algorithm based optimal power flow",
+      "authors": "MZ Islam, NIA Wahab, V Veerasamy, NF Mailah, H Hizam, MNM Nasir, ...",
+      "publication": "2020 International Conference on Computer Communication and Informatics …, 2020",
+      "year": 2020,
+      "citations": 13,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:ULOm3_A8WrAC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11322478362094777835",
+      "type": "Conference",
+      "tags": [
+        "Conference",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{islam2020_generationfu,\n  title = {Generation fuel cost and loss minimization using salp swarm algorithm based optimal power flow},\n  author = {MZ Islam, NIA Wahab, V Veerasamy, NF Mailah, H Hizam, MNM Nasir, ...},\n  journal = {2020 International Conference on Computer Communication and Informatics …, 2020},\n  year = {2020},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:ULOm3_A8WrAC}\n}",
+      "apaCitation": "MZ Islam, NIA Wahab, V Veerasamy, NF Mailah, H Hizam, MNM Nasir, ... (2020). Generation fuel cost and loss minimization using salp swarm algorithm based optimal power flow. 2020 International Conference on Computer Communication and Informatics …, 2020."
+    },
+    {
+      "id": 70,
+      "title": "Fault detection and classification of shunt compensated transmission line using discrete wavelet transform and naive bayes classifier",
+      "authors": "E Aker, ML Othman, V Veerasamy, I Aris, NIA Wahab, H Hizam",
+      "publication": "Energies 13 (1), 243, 2020",
+      "year": 2020,
+      "citations": 108,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:5nxA0vEk-isC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2594213727372112765",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "MDPI",
+        "Cyber-Physical & Security",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{aker2020_faultdetecti,\n  title = {Fault detection and classification of shunt compensated transmission line using discrete wavelet transform and naive bayes classifier},\n  author = {E Aker, ML Othman, V Veerasamy, I Aris, NIA Wahab, H Hizam},\n  journal = {Energies 13 (1), 243, 2020},\n  year = {2020},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:5nxA0vEk-isC}\n}",
+      "apaCitation": "E Aker, ML Othman, V Veerasamy, I Aris, NIA Wahab, H Hizam (2020). Fault detection and classification of shunt compensated transmission line using discrete wavelet transform and naive bayes classifier. Energies 13 (1), 243, 2020."
+    },
+    {
+      "id": 71,
+      "title": "Automatic load frequency control of a multi-area dynamic interconnected power system using a hybrid PSO-GSA-tuned PID controller",
+      "authors": "V Veerasamy, NI Abdul Wahab, R Ramachandran, A Vinayagam, ...",
+      "publication": "Sustainability 11 (24), 6908, 2019",
+      "year": 2019,
+      "citations": 51,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:hqOjcs7Dif8C",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12107020104170813922",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{veerasamy2019_automaticloa,\n  title = {Automatic load frequency control of a multi-area dynamic interconnected power system using a hybrid PSO-GSA-tuned PID controller},\n  author = {V Veerasamy, NI Abdul Wahab, R Ramachandran, A Vinayagam, ...},\n  journal = {Sustainability 11 (24), 6908, 2019},\n  year = {2019},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:hqOjcs7Dif8C}\n}",
+      "apaCitation": "V Veerasamy, NI Abdul Wahab, R Ramachandran, A Vinayagam, ... (2019). Automatic load frequency control of a multi-area dynamic interconnected power system using a hybrid PSO-GSA-tuned PID controller. Sustainability 11 (24), 6908, 2019."
+    },
+    {
+      "id": 72,
+      "title": "Harmonics assessment and mitigation in a photovoltaic integrated network",
+      "authors": "A Vinayagam, A Aziz, J Chandran, V Veerasamy, A Gargoom",
+      "publication": "Sustainable Energy, Grids and Networks 20, 100264, 2019",
+      "year": 2019,
+      "citations": 85,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:LkGwnXOMwfcC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5320169987912468431",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{vinayagam2019_harmonicsass,\n  title = {Harmonics assessment and mitigation in a photovoltaic integrated network},\n  author = {A Vinayagam, A Aziz, J Chandran, V Veerasamy, A Gargoom},\n  journal = {Sustainable Energy, Grids and Networks 20, 100264, 2019},\n  year = {2019},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:LkGwnXOMwfcC}\n}",
+      "apaCitation": "A Vinayagam, A Aziz, J Chandran, V Veerasamy, A Gargoom (2019). Harmonics assessment and mitigation in a photovoltaic integrated network. Sustainable Energy, Grids and Networks 20, 100264, 2019."
+    },
+    {
+      "id": 73,
+      "title": "Optimal power flow using a novel Harris Hawk optimization algorithm to minimize fuel cost and power loss",
+      "authors": "MZ Islam, NIA Wahab, V Veerasamy, H Hizam, NF Mailah, A Khan, ...",
+      "publication": "2019 IEEE Conference on Sustainable Utilization and Development in …, 2019",
+      "year": 2019,
+      "citations": 16,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:_kc_bZDykSQC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2146686464782645980",
+      "type": "Conference",
+      "tags": [
+        "Conference",
+        "IEEE",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{islam2019_optimalpower,\n  title = {Optimal power flow using a novel Harris Hawk optimization algorithm to minimize fuel cost and power loss},\n  author = {MZ Islam, NIA Wahab, V Veerasamy, H Hizam, NF Mailah, A Khan, ...},\n  journal = {2019 IEEE Conference on Sustainable Utilization and Development in …, 2019},\n  year = {2019},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:_kc_bZDykSQC}\n}",
+      "apaCitation": "MZ Islam, NIA Wahab, V Veerasamy, H Hizam, NF Mailah, A Khan, ... (2019). Optimal power flow using a novel Harris Hawk optimization algorithm to minimize fuel cost and power loss. 2019 IEEE Conference on Sustainable Utilization and Development in …, 2019."
+    },
+    {
+      "id": 74,
+      "title": "High-impedance fault detection in medium-voltage distribution network using computational intelligence-based classifiers",
+      "authors": "V Veerasamy, NIA Wahab, R Ramachandran, M Thirumeni, ...",
+      "publication": "Neural Computing and Applications, 1-17, 2019",
+      "year": 2019,
+      "citations": 60,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:_FxGoFyzp5QC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1726148945710724265",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Cyber-Physical & Security",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{veerasamy2019_highimpedanc,\n  title = {High-impedance fault detection in medium-voltage distribution network using computational intelligence-based classifiers},\n  author = {V Veerasamy, NIA Wahab, R Ramachandran, M Thirumeni, ...},\n  journal = {Neural Computing and Applications, 1-17, 2019},\n  year = {2019},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:_FxGoFyzp5QC}\n}",
+      "apaCitation": "V Veerasamy, NIA Wahab, R Ramachandran, M Thirumeni, ... (2019). High-impedance fault detection in medium-voltage distribution network using computational intelligence-based classifiers. Neural Computing and Applications, 1-17, 2019."
+    },
+    {
+      "id": 75,
+      "title": "High impedance fault detection in medium voltage distribution network using discrete wavelet transform and adaptive neuro-fuzzy inference system",
+      "authors": "V Veerasamy, NI Abdul Wahab, R Ramachandran, M Mansoor, ...",
+      "publication": "Energies 11 (12), 3330, 2018",
+      "year": 2018,
+      "citations": 42,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:WF5omc3nYNoC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10238413263408747199",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "MDPI",
+        "Cyber-Physical & Security",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{veerasamy2018_highimpedanc,\n  title = {High impedance fault detection in medium voltage distribution network using discrete wavelet transform and adaptive neuro-fuzzy inference system},\n  author = {V Veerasamy, NI Abdul Wahab, R Ramachandran, M Mansoor, ...},\n  journal = {Energies 11 (12), 3330, 2018},\n  year = {2018},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:WF5omc3nYNoC}\n}",
+      "apaCitation": "V Veerasamy, NI Abdul Wahab, R Ramachandran, M Mansoor, ... (2018). High impedance fault detection in medium voltage distribution network using discrete wavelet transform and adaptive neuro-fuzzy inference system. Energies 11 (12), 3330, 2018."
+    },
+    {
+      "id": 76,
+      "title": "Load frequency control of a dynamic interconnected power system using generalised Hopfield neural network based self‐adaptive PID controller",
+      "authors": "R Ramachandran, B Madasamy, V Veerasamy, L Saravanan",
+      "publication": "IET Generation, Transmission &amp; Distribution 12 (21), 5713-5722, 2018",
+      "year": 2018,
+      "citations": 69,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:zYLM7Y9cAGgC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5745383121126665135",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{ramachandran2018_loadfrequenc,\n  title = {Load frequency control of a dynamic interconnected power system using generalised Hopfield neural network based self‐adaptive PID controller},\n  author = {R Ramachandran, B Madasamy, V Veerasamy, L Saravanan},\n  journal = {IET Generation, Transmission &amp; Distribution 12 (21), 5713-5722, 2018},\n  year = {2018},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:zYLM7Y9cAGgC}\n}",
+      "apaCitation": "R Ramachandran, B Madasamy, V Veerasamy, L Saravanan (2018). Load frequency control of a dynamic interconnected power system using generalised Hopfield neural network based self‐adaptive PID controller. IET Generation, Transmission &amp; Distribution 12 (21), 5713-5722, 2018."
+    },
+    {
+      "id": 77,
+      "title": "Design of robust H2/H-infinity controllers of DC-DC SEPIC converter for effective set point tracking",
+      "authors": "V Sundaramoorthy, S Jeyakumar, V Rajakumar, V Veerasamy",
+      "publication": "Int. J. Pure Appl. Math 118 (24), 1-15, 2018",
+      "year": 2018,
+      "citations": 4,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:YsMSGLbcyi4C",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4854990476004469170",
+      "type": "Journal",
+      "tags": [
+        "Journal"
+      ],
+      "bibtex": "@article{sundaramoorthy2018_designofrobu,\n  title = {Design of robust H2/H-infinity controllers of DC-DC SEPIC converter for effective set point tracking},\n  author = {V Sundaramoorthy, S Jeyakumar, V Rajakumar, V Veerasamy},\n  journal = {Int. J. Pure Appl. Math 118 (24), 1-15, 2018},\n  year = {2018},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:YsMSGLbcyi4C}\n}",
+      "apaCitation": "V Sundaramoorthy, S Jeyakumar, V Rajakumar, V Veerasamy (2018). Design of robust H2/H-infinity controllers of DC-DC SEPIC converter for effective set point tracking. Int. J. Pure Appl. Math 118 (24), 1-15, 2018."
+    },
+    {
+      "id": 78,
+      "title": "A Graphical Theory Approach Based Optimal Placement of PMU Using Binary Genetic Algorithm for Tamil Nadu Power Grid System",
+      "authors": "VV Sabari Santosh, Revanth P, Rudra Kumar, Vidhya Sagar Devendran",
+      "publication": "International Conference on Power Electronics and Renewable Energy Systems …, 2018",
+      "year": 2018,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:Wp0gIr-vW9MC",
+      "citationsUrl": "",
+      "type": "Conference",
+      "tags": [
+        "Conference",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{santosh2018_agraphicalth,\n  title = {A Graphical Theory Approach Based Optimal Placement of PMU Using Binary Genetic Algorithm for Tamil Nadu Power Grid System},\n  author = {VV Sabari Santosh, Revanth P, Rudra Kumar, Vidhya Sagar Devendran},\n  journal = {International Conference on Power Electronics and Renewable Energy Systems …, 2018},\n  year = {2018},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:Wp0gIr-vW9MC}\n}",
+      "apaCitation": "VV Sabari Santosh, Revanth P, Rudra Kumar, Vidhya Sagar Devendran (2018). A Graphical Theory Approach Based Optimal Placement of PMU Using Binary Genetic Algorithm for Tamil Nadu Power Grid System. International Conference on Power Electronics and Renewable Energy Systems …, 2018."
+    },
+    {
+      "id": 79,
+      "title": "Load flow analysis using generalised Hopfield neural network",
+      "authors": "V Veerasamy, R Ramachandran, M Thirumeni, B Madasamy",
+      "publication": "IET Generation, Transmission &amp; Distribution 12 (8), 1765-1773, 2018",
+      "year": 2018,
+      "citations": 23,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:Tyk-4Ss8FVUC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13556326255249911844",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{veerasamy2018_loadflowanal,\n  title = {Load flow analysis using generalised Hopfield neural network},\n  author = {V Veerasamy, R Ramachandran, M Thirumeni, B Madasamy},\n  journal = {IET Generation, Transmission &amp; Distribution 12 (8), 1765-1773, 2018},\n  year = {2018},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:Tyk-4Ss8FVUC}\n}",
+      "apaCitation": "V Veerasamy, R Ramachandran, M Thirumeni, B Madasamy (2018). Load flow analysis using generalised Hopfield neural network. IET Generation, Transmission &amp; Distribution 12 (8), 1765-1773, 2018."
+    },
+    {
+      "id": 80,
+      "title": "Design of State Feedback Controller for positive output elementary super-lift DC-DC Luo converter for Low Power Applications [articol]",
+      "authors": "B LekshmiSree, MG Umamaheswari, V Veerasamy",
+      "publication": "Timișoara: Editura Politehnica, 2018",
+      "year": 2018,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:a0OBvERweLwC",
+      "citationsUrl": "",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{lekshmisree2018_designofstat,\n  title = {Design of State Feedback Controller for positive output elementary super-lift DC-DC Luo converter for Low Power Applications [articol]},\n  author = {B LekshmiSree, MG Umamaheswari, V Veerasamy},\n  journal = {Timișoara: Editura Politehnica, 2018},\n  year = {2018},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:a0OBvERweLwC}\n}",
+      "apaCitation": "B LekshmiSree, MG Umamaheswari, V Veerasamy (2018). Design of State Feedback Controller for positive output elementary super-lift DC-DC Luo converter for Low Power Applications [articol]. Timișoara: Editura Politehnica, 2018."
+    },
+    {
+      "id": 81,
+      "title": "Design of State Feedback Controller for positive output elementary super-lift DC-DC Luo converter for Low Power Applications",
+      "authors": "VV Lakshmi Sree B, Umamaheswari M.G",
+      "publication": "Journal of Electrical Engineering 2018 (4), 1-18, 2018",
+      "year": 2018,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:Se3iqnhoufwC",
+      "citationsUrl": "",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{b2018_designofstat,\n  title = {Design of State Feedback Controller for positive output elementary super-lift DC-DC Luo converter for Low Power Applications},\n  author = {VV Lakshmi Sree B, Umamaheswari M.G},\n  journal = {Journal of Electrical Engineering 2018 (4), 1-18, 2018},\n  year = {2018},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:Se3iqnhoufwC}\n}",
+      "apaCitation": "VV Lakshmi Sree B, Umamaheswari M.G (2018). Design of State Feedback Controller for positive output elementary super-lift DC-DC Luo converter for Low Power Applications. Journal of Electrical Engineering 2018 (4), 1-18, 2018."
+    },
+    {
+      "id": 82,
+      "title": "A New Control Strategy for PMSG Based Wind Energy Conversion System feeding Microgrid",
+      "authors": "SV Kalaivani R, Veerapandiyan Veerasamy, VIdhyasagar D",
+      "publication": "Journal of Electrical Engineering, 2017",
+      "year": 2017,
+      "citations": 3,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:W7OEmFMy1HYC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9833126304984753171",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{r2017_anewcontrols,\n  title = {A New Control Strategy for PMSG Based Wind Energy Conversion System feeding Microgrid},\n  author = {SV Kalaivani R, Veerapandiyan Veerasamy, VIdhyasagar D},\n  journal = {Journal of Electrical Engineering, 2017},\n  year = {2017},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:W7OEmFMy1HYC}\n}",
+      "apaCitation": "SV Kalaivani R, Veerapandiyan Veerasamy, VIdhyasagar D (2017). A New Control Strategy for PMSG Based Wind Energy Conversion System feeding Microgrid. Journal of Electrical Engineering, 2017."
+    },
+    {
+      "id": 83,
+      "title": "Optimal Placement of PMU in smart grid",
+      "authors": "VSD Veerapandiyan Veerasamy, Kalaivani R",
+      "publication": "National Conference on “Smart Grid, Communication and Internet of Things”At …, 2017",
+      "year": 2017,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:mVmsd5A6BfQC",
+      "citationsUrl": "",
+      "type": "Conference",
+      "tags": [
+        "Conference",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{veerasamy2017_optimalplace,\n  title = {Optimal Placement of PMU in smart grid},\n  author = {VSD Veerapandiyan Veerasamy, Kalaivani R},\n  journal = {National Conference on “Smart Grid, Communication and Internet of Things”At …, 2017},\n  year = {2017},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:mVmsd5A6BfQC}\n}",
+      "apaCitation": "VSD Veerapandiyan Veerasamy, Kalaivani R (2017). Optimal Placement of PMU in smart grid. National Conference on “Smart Grid, Communication and Internet of Things”At …, 2017."
+    },
+    {
+      "id": 84,
+      "title": "Transmission system restructuring and optimal placement of DG for congestion management",
+      "authors": "V Veerapandiyan, R Kalaivani, T Mariammal",
+      "publication": "2017 International Conference on Innovations in Electrical, Electronics …, 2017",
+      "year": 2017,
+      "citations": 3,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:2osOgNQ5qMEC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14215374843592658213",
+      "type": "Conference",
+      "tags": [
+        "Conference"
+      ],
+      "bibtex": "@article{veerapandiyan2017_transmission,\n  title = {Transmission system restructuring and optimal placement of DG for congestion management},\n  author = {V Veerapandiyan, R Kalaivani, T Mariammal},\n  journal = {2017 International Conference on Innovations in Electrical, Electronics …, 2017},\n  year = {2017},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:2osOgNQ5qMEC}\n}",
+      "apaCitation": "V Veerapandiyan, R Kalaivani, T Mariammal (2017). Transmission system restructuring and optimal placement of DG for congestion management. 2017 International Conference on Innovations in Electrical, Electronics …, 2017."
+    },
+    {
+      "id": 85,
+      "title": "Transmission System Reconfiguration to Reduce Losses and Cost Ensuring Voltage Security",
+      "authors": "MD Veerapandiyan V",
+      "publication": "Journal of Power and Energy Engineering 4 (6), 4-12, 2015",
+      "year": 2015,
+      "citations": 8,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:d1gkVwhDpl0C",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18171918917798581061",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Cyber-Physical & Security"
+      ],
+      "bibtex": "@article{v2015_transmission,\n  title = {Transmission System Reconfiguration to Reduce Losses and Cost Ensuring Voltage Security},\n  author = {MD Veerapandiyan V},\n  journal = {Journal of Power and Energy Engineering 4 (6), 4-12, 2015},\n  year = {2015},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:d1gkVwhDpl0C}\n}",
+      "apaCitation": "MD Veerapandiyan V (2015). Transmission System Reconfiguration to Reduce Losses and Cost Ensuring Voltage Security. Journal of Power and Energy Engineering 4 (6), 4-12, 2015."
+    },
+    {
+      "id": 86,
+      "title": "A COMPARATIVE METHOD OF OPTIMAL POWER FLOW FOR IEEE-30 BUS SYSTEM",
+      "authors": "KS Veerapandiyan V, Mary D",
+      "publication": "International Journal of Applied Engineering Research 5 (2), 359-364, 2015",
+      "year": 2015,
+      "citations": 5,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:u5HHmVD_uO8C",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12248893731836454316",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{v2015_acomparative,\n  title = {A COMPARATIVE METHOD OF OPTIMAL POWER FLOW FOR IEEE-30 BUS SYSTEM},\n  author = {KS Veerapandiyan V, Mary D},\n  journal = {International Journal of Applied Engineering Research 5 (2), 359-364, 2015},\n  year = {2015},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:u5HHmVD_uO8C}\n}",
+      "apaCitation": "KS Veerapandiyan V, Mary D (2015). A COMPARATIVE METHOD OF OPTIMAL POWER FLOW FOR IEEE-30 BUS SYSTEM. International Journal of Applied Engineering Research 5 (2), 359-364, 2015."
+    },
+    {
+      "id": 87,
+      "title": "Performance analysis of sepic and zeta converter with fuzzy logic controller for maximum power point tracking",
+      "authors": "VV S Kanimozhi, D Mary",
+      "publication": "International Journal of Applied Engineering Research, 10, 281-287, 2015",
+      "year": 2015,
+      "citations": 5,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:u-x6o8ySG0sC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15916236966312147983",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy",
+        "AI & Deep Learning"
+      ],
+      "bibtex": "@article{kanimozhi2015_performancea,\n  title = {Performance analysis of sepic and zeta converter with fuzzy logic controller for maximum power point tracking},\n  author = {VV S Kanimozhi, D Mary},\n  journal = {International Journal of Applied Engineering Research, 10, 281-287, 2015},\n  year = {2015},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:u-x6o8ySG0sC}\n}",
+      "apaCitation": "VV S Kanimozhi, D Mary (2015). Performance analysis of sepic and zeta converter with fuzzy logic controller for maximum power point tracking. International Journal of Applied Engineering Research, 10, 281-287, 2015."
+    },
+    {
+      "id": 88,
+      "title": "A Hybrid Sparrow Search Optimized Fractional Virtual Inertia Control for Frequency Regulation of Multi-Microgrid System",
+      "authors": "BINM RADZI, ABCHE SOH, HM RIDHA, AR ALSOUD, V VEERASAMY, ...",
+      "publication": "",
+      "year": null,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:dfsIfKJdRG4C",
+      "citationsUrl": "",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{radzirecent_ahybridsparr,\n  title = {A Hybrid Sparrow Search Optimized Fractional Virtual Inertia Control for Frequency Regulation of Multi-Microgrid System},\n  author = {BINM RADZI, ABCHE SOH, HM RIDHA, AR ALSOUD, V VEERASAMY, ...},\n  journal = {},\n  year = {},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:dfsIfKJdRG4C}\n}",
+      "apaCitation": "BINM RADZI, ABCHE SOH, HM RIDHA, AR ALSOUD, V VEERASAMY, ... (n.d.). A Hybrid Sparrow Search Optimized Fractional Virtual Inertia Control for Frequency Regulation of Multi-Microgrid System. ."
+    },
+    {
+      "id": 89,
+      "title": "Short Letter",
+      "authors": "H QIU, Z LI, H GAO, HD NGUYEN, V VEERASAMY, HB GOOI, L CHEN, ...",
+      "publication": "",
+      "year": null,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:rO6llkc54NcC",
+      "citationsUrl": "",
+      "type": "Journal",
+      "tags": [
+        "Journal"
+      ],
+      "bibtex": "@article{qiurecent_shortletter,\n  title = {Short Letter},\n  author = {H QIU, Z LI, H GAO, HD NGUYEN, V VEERASAMY, HB GOOI, L CHEN, ...},\n  journal = {},\n  year = {},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:rO6llkc54NcC}\n}",
+      "apaCitation": "H QIU, Z LI, H GAO, HD NGUYEN, V VEERASAMY, HB GOOI, L CHEN, ... (n.d.). Short Letter. ."
+    },
+    {
+      "id": 90,
+      "title": "Pranjal Garg and Sejal Gupta",
+      "authors": "AS Sakthi, A Inbamani, R Elango, S Niveda, M Preethi, R Rajalakshmi, ...",
+      "publication": "",
+      "year": null,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:3s1wT3WcHBgC",
+      "citationsUrl": "",
+      "type": "Journal",
+      "tags": [
+        "Journal"
+      ],
+      "bibtex": "@article{sakthirecent_pranjalgarga,\n  title = {Pranjal Garg and Sejal Gupta},\n  author = {AS Sakthi, A Inbamani, R Elango, S Niveda, M Preethi, R Rajalakshmi, ...},\n  journal = {},\n  year = {},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:3s1wT3WcHBgC}\n}",
+      "apaCitation": "AS Sakthi, A Inbamani, R Elango, S Niveda, M Preethi, R Rajalakshmi, ... (n.d.). Pranjal Garg and Sejal Gupta. ."
+    },
+    {
+      "id": 91,
+      "title": "A Graphical Theory Approach Based Optimal Placement of PMU Using Binary Genetic Algorithm for Tamil Nadu Power Grid System",
+      "authors": "",
+      "publication": "",
+      "year": null,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:4DMP91E08xMC",
+      "citationsUrl": "",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{veerasamyrecent_agraphicalth,\n  title = {A Graphical Theory Approach Based Optimal Placement of PMU Using Binary Genetic Algorithm for Tamil Nadu Power Grid System},\n  author = {},\n  journal = {},\n  year = {},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:4DMP91E08xMC}\n}",
+      "apaCitation": " (n.d.). A Graphical Theory Approach Based Optimal Placement of PMU Using Binary Genetic Algorithm for Tamil Nadu Power Grid System. ."
+    },
+    {
+      "id": 92,
+      "title": "Design of Robust H2 controller of DC-DC SEPIC converter",
+      "authors": "V Sundaramurthy, S Jeyakumar, V Rajakumar, V Veerasamy",
+      "publication": "",
+      "year": null,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:MXK_kJrjxJIC",
+      "citationsUrl": "",
+      "type": "Journal",
+      "tags": [
+        "Journal"
+      ],
+      "bibtex": "@article{sundaramurthyrecent_designofrobu,\n  title = {Design of Robust H2 controller of DC-DC SEPIC converter},\n  author = {V Sundaramurthy, S Jeyakumar, V Rajakumar, V Veerasamy},\n  journal = {},\n  year = {},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:MXK_kJrjxJIC}\n}",
+      "apaCitation": "V Sundaramurthy, S Jeyakumar, V Rajakumar, V Veerasamy (n.d.). Design of Robust H2 controller of DC-DC SEPIC converter. ."
+    },
+    {
+      "id": 93,
+      "title": "Modelling and simulation of three phase power factor correctors with fast dynamic response based on fixed PWM and bang-bang control techniques using DC-DC SEPIC converter modules",
+      "authors": "MG Umamaheswari, V Sivasubramanian, SSS Vasanth, BL Sree, ...",
+      "publication": "International Journal of Power Electronics, 0",
+      "year": null,
+      "citations": 1,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:ufrVoPGSRksC",
+      "citationsUrl": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10720202695494326613",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{umamaheswarirecent_modellingand,\n  title = {Modelling and simulation of three phase power factor correctors with fast dynamic response based on fixed PWM and bang-bang control techniques using DC-DC SEPIC converter modules},\n  author = {MG Umamaheswari, V Sivasubramanian, SSS Vasanth, BL Sree, ...},\n  journal = {International Journal of Power Electronics, 0},\n  year = {},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:ufrVoPGSRksC}\n}",
+      "apaCitation": "MG Umamaheswari, V Sivasubramanian, SSS Vasanth, BL Sree, ... (n.d.). Modelling and simulation of three phase power factor correctors with fast dynamic response based on fixed PWM and bang-bang control techniques using DC-DC SEPIC converter modules. International Journal of Power Electronics, 0."
+    },
+    {
+      "id": 94,
+      "title": "AN APPROACH TO CONGESTION MANAGEMENT IN TRANSMISSION SYSTEM BY OPTIMAL PLACEMENT OF DG AND TCSC",
+      "authors": "V Veerasamy, R Kalaivani, D Vidhya Sagar",
+      "publication": "",
+      "year": null,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:Y0pCki6q_DkC",
+      "citationsUrl": "",
+      "type": "Journal",
+      "tags": [
+        "Journal"
+      ],
+      "bibtex": "@article{veerasamyrecent_anapproachto,\n  title = {AN APPROACH TO CONGESTION MANAGEMENT IN TRANSMISSION SYSTEM BY OPTIMAL PLACEMENT OF DG AND TCSC},\n  author = {V Veerasamy, R Kalaivani, D Vidhya Sagar},\n  journal = {},\n  year = {},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:Y0pCki6q_DkC}\n}",
+      "apaCitation": "V Veerasamy, R Kalaivani, D Vidhya Sagar (n.d.). AN APPROACH TO CONGESTION MANAGEMENT IN TRANSMISSION SYSTEM BY OPTIMAL PLACEMENT OF DG AND TCSC. ."
+    },
+    {
+      "id": 95,
+      "title": "POWER SYSTEM DISTURBANCE CLASSIFICATION METHODOLOGY USING DWT AND ANFIS TECHNIQUES",
+      "authors": "V Veerapandiyan, G Jyosthna",
+      "publication": "",
+      "year": null,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:IjCSPb-OGe4C",
+      "citationsUrl": "",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{veerapandiyanrecent_powersystemd,\n  title = {POWER SYSTEM DISTURBANCE CLASSIFICATION METHODOLOGY USING DWT AND ANFIS TECHNIQUES},\n  author = {V Veerapandiyan, G Jyosthna},\n  journal = {},\n  year = {},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:IjCSPb-OGe4C}\n}",
+      "apaCitation": "V Veerapandiyan, G Jyosthna (n.d.). POWER SYSTEM DISTURBANCE CLASSIFICATION METHODOLOGY USING DWT AND ANFIS TECHNIQUES. ."
+    },
+    {
+      "id": 96,
+      "title": "HIGH IMPEDANCE FAULT DETECTION METHODOLOGY USING DISCRETE WAVELET TRANSFORM",
+      "authors": "V Veerapandiyan, D Mary, C GCT",
+      "publication": "",
+      "year": null,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:UeHWp8X0CEIC",
+      "citationsUrl": "",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Cyber-Physical & Security"
+      ],
+      "bibtex": "@article{veerapandiyanrecent_highimpedanc,\n  title = {HIGH IMPEDANCE FAULT DETECTION METHODOLOGY USING DISCRETE WAVELET TRANSFORM},\n  author = {V Veerapandiyan, D Mary, C GCT},\n  journal = {},\n  year = {},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:UeHWp8X0CEIC}\n}",
+      "apaCitation": "V Veerapandiyan, D Mary, C GCT (n.d.). HIGH IMPEDANCE FAULT DETECTION METHODOLOGY USING DISCRETE WAVELET TRANSFORM. ."
+    },
+    {
+      "id": 97,
+      "title": "Closed Loop Control of Buck-Boost Inverter for Grid Connected System Using H-Infinity and MPC Controller",
+      "authors": "V Veerapandiyan, S Gokul, A Elumalai, K Selvam",
+      "publication": "",
+      "year": null,
+      "citations": 0,
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:qjMakFHDy7sC",
+      "citationsUrl": "",
+      "type": "Journal",
+      "tags": [
+        "Journal",
+        "Smart Grids & Energy"
+      ],
+      "bibtex": "@article{veerapandiyanrecent_closedloopco,\n  title = {Closed Loop Control of Buck-Boost Inverter for Grid Connected System Using H-Infinity and MPC Controller},\n  author = {V Veerapandiyan, S Gokul, A Elumalai, K Selvam},\n  journal = {},\n  year = {},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vzf72BMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=vzf72BMAAAAJ:qjMakFHDy7sC}\n}",
+      "apaCitation": "V Veerapandiyan, S Gokul, A Elumalai, K Selvam (n.d.). Closed Loop Control of Buck-Boost Inverter for Grid Connected System Using H-Infinity and MPC Controller. ."
+    }
+  ]
+};
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = window.SCHOLAR_DATA;
+}

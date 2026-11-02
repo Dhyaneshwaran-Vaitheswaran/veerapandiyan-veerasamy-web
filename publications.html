@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publications & Impact | Dr. Veerapandiyan Veerasamy</title>
+    <meta name="description" content="Complete peer-reviewed publications, Google Scholar citations, and research papers of Dr. Veerapandiyan Veerasamy, Lecturer in Cybersecurity at Curtin University, Singapore.">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/publications.css">
+    <script src="js/main.js" defer></script>
+    <script src="js/scholar-data.js"></script>
+    <script src="js/publications.js" defer></script>
+</head>
+<body>
+    <header class="site-header">
+        <div class="container header-inner">
+            <a href="index.html" class="branding">
+                <span class="logo-text">Dr. Veerapandiyan Veerasamy</span>
+            </a>
+            <button class="menu-toggle" aria-label="Toggle Menu">☰</button>
+            <nav class="main-nav">
+                <ul class="nav-list">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="research.html">Research</a></li>
+                    <li><a href="publications.html" class="active">Publications</a></li>
+                    <li><a href="supervision.html">Supervision</a></li>
+                    <li><a href="teaching.html">Teaching</a></li>
+                    <li><a href="join.html">Join Us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="page-head" style="background-color: var(--primary-color); color: white; padding: 60px 0; text-align: center; background-image: linear-gradient(135deg, rgba(15,76,129,0.95) 0%, rgba(26,99,165,0.9) 100%);">
+        <div class="container">
+            <h1 style="color: white; margin-bottom: 0.5rem; font-size: 2.8rem;">Publications & Academic Impact</h1>
+            <p style="color: rgba(255,255,255,0.9); font-size: 1.15rem; max-width: 750px; margin: 0 auto;">
+                Peer-reviewed research articles, IEEE conference proceedings, and patents dynamically synced with Google Scholar.
+            </p>
+        </div>
+    </div>
+
+    <main class="section">
+        <div class="container">
+
+            <!-- Scholar Metrics & Growth Trajectory Dashboard -->
+            <div id="scholar-metrics-container">
+                <!-- Populated dynamically by js/publications.js -->
+            </div>
+
+            <!-- Display Mode Selector (Explorer vs. Iframe Embed) -->
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem; flex-wrap: wrap; gap: 1rem;">
+                <div style="display: flex; gap: 8px;">
+                    <button type="button" id="tab-explorer-btn" class="btn" style="width: auto; padding: 8px 18px; font-size: 0.9rem; margin-bottom: 0;" onclick="switchPubView('explorer')">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align: text-bottom; margin-right: 4px;"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>
+                        Interactive Explorer
+                    </button>
+                    <button type="button" id="tab-iframe-btn" class="btn btn-secondary" style="width: auto; padding: 8px 18px; font-size: 0.9rem; margin-bottom: 0;" onclick="switchPubView('iframe')">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align: text-bottom; margin-right: 4px;"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
+                        Live Iframe Embed
+                    </button>
+                </div>
+
+                <div style="display: flex; gap: 10px; align-items: center;">
+                    <button type="button" class="btn btn-secondary" style="width: auto; padding: 8px 16px; font-size: 0.85rem; margin-bottom: 0;" onclick="toggleEmbedCodeBox()">
+                        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align: text-bottom; margin-right: 4px;"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
+                        Get Iframe Code
+                    </button>
+                    <a href="https://scholar.google.com/citations?hl=en&user=vzf72BMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener" class="btn" style="width: auto; padding: 8px 18px; font-size: 0.85rem; margin-bottom: 0; display: inline-flex; align-items: center; gap: 6px; background-color: var(--scholar-dark); border-color: var(--scholar-dark);">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+                        Google Scholar Profile
+                    </a>
+                </div>
+            </div>
+
+            <!-- Embed Code Box (Collapsible) -->
+            <div id="embed-code-box" style="display: none; background: #0f172a; color: #e2e8f0; padding: 1.5rem; border-radius: 12px; margin-bottom: 2rem; position: relative; border: 1px solid #334155;">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem;">
+                    <strong style="color: #38bdf8; font-size: 0.95rem; display: flex; align-items: center; gap: 6px;">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
+                        Embed Dr. Veera's Google Scholar Feed into Any Website
+                    </strong>
+                    <button type="button" class="copy-snippet-btn" onclick="copyIframeHtml()" style="position: static;">
+                        Copy HTML Code
+                    </button>
+                </div>
+                <p style="font-size: 0.85rem; color: #94a3b8; margin-bottom: 0.75rem;">Copy and paste this lightweight iframe snippet anywhere (university lab portal, blog, or research page) to load Dr. Veera's auto-updating Google Scholar publications:</p>
+                <pre style="background: #1e293b; padding: 1rem; border-radius: 8px; font-family: ui-monospace, monospace; font-size: 0.85rem; overflow-x: auto; color: #7dd3fc; margin: 0;"><code id="embed-code-snippet">&lt;iframe src="scholar_embed.html" width="100%" height="850" frameborder="0" style="border: 1px solid #e2e8f0; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" title="Dr. Veerapandiyan Veerasamy Publications on Google Scholar" loading="lazy"&gt;&lt;/iframe&gt;</code></pre>
+            </div>
+
+            <!-- View 1: Interactive Native Explorer -->
+            <div id="view-explorer">
+                <div id="publications-toolbar-container">
+                    <!-- Populated dynamically by js/publications.js -->
+                </div>
+                <div id="publications-list">
+                    <!-- Cards populated dynamically by js/publications.js -->
+                </div>
+            </div>
+
+            <!-- View 2: Live Embedded Iframe Showcase -->
+            <div id="view-iframe" style="display: none;">
+                <div class="scholar-iframe-wrapper">
+                    <div class="scholar-iframe-header">
+                        <div class="scholar-iframe-title">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                                <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+                            </svg>
+                            <div>
+                                <h4>Google Scholar Publications Iframe</h4>
+                                <p>Interactive widget embedded directly via &lt;iframe src="scholar_embed.html"&gt;</p>
+                            </div>
+                        </div>
+                        <div class="scholar-iframe-controls">
+                            <button type="button" class="frame-ctrl-btn" onclick="reloadScholarIframe()">
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 4 23 10 17 10"></polyline><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"></path></svg>
+                                Reload Frame
+                            </button>
+                            <a href="scholar_embed.html" target="_blank" class="frame-ctrl-btn">
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+                                Standalone View
+                            </a>
+                        </div>
+                    </div>
+                    <iframe src="scholar_embed.html" id="scholar-publications-frame" class="scholar-frame" title="Dr. Veerapandiyan Veerasamy Google Scholar Publications" loading="lazy"></iframe>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <!-- Global Toast notification -->
+    <div id="scholar-toast" class="scholar-toast"></div>
+
+    <footer class="site-footer" style="position: relative; overflow: hidden;">
+        <!-- Background Pattern -->
+        <div style="position: absolute; top: -50%; left: -10%; width: 500px; height: 500px; background: radial-gradient(circle, rgba(255,255,255,0.05) 0%, transparent 70%); border-radius: 50%; pointer-events: none;"></div>
+        <div style="position: absolute; bottom: -50%; right: -10%; width: 600px; height: 600px; background: radial-gradient(circle, rgba(243, 156, 18, 0.05) 0%, transparent 70%); border-radius: 50%; pointer-events: none;"></div>
+        
+        <div class="container" style="position: relative; z-index: 1;">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <h4 style="font-size: 1.4rem; letter-spacing: -0.5px; margin-bottom: 1.5rem;">Dr. Veerapandiyan Veerasamy</h4>
+                    <p style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 1rem;">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-color)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                        Lecturer in Cybersecurity<br>Curtin University, Singapore
+                    </p>
+                    <p style="display: flex; align-items: flex-start; gap: 10px;">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-color)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0; margin-top: 2px;"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+                        Veerapandiyan.Veerasamy@curtin.edu.sg
+                    </p>
+                </div>
+                <div class="footer-col">
+                    <h4 style="font-size: 1.2rem; margin-bottom: 1.5rem;">Explore</h4>
+                    <ul class="footer-links">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="research.html">Research</a></li>
+                        <li><a href="publications.html">Publications</a></li>
+                        <li><a href="supervision.html">Supervision</a></li>
+                        <li><a href="teaching.html">Teaching</a></li>
+                        <li><a href="join.html">Join Us</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4 style="font-size: 1.2rem; margin-bottom: 1.5rem;">Connect</h4>
+                    <div class="footer-socials" style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+                        <a href="https://scholar.google.com/citations?hl=en&user=vzf72BMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener" style="display: flex; align-items: center; gap: 8px;">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg> Scholar
+                        </a>
+                        <a href="https://orcid.org" target="_blank" rel="noopener" style="display: flex; align-items: center; gap: 8px;">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg> ORCID
+                        </a>
+                        <a href="https://www.linkedin.com/in/veerapandiyan-veerasamy-smieee-365a03117/" target="_blank" rel="noopener" style="display: flex; align-items: center; gap: 8px;">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg> LinkedIn
+                        </a>
+                        <a href="https://www.researchgate.net/profile/Veerapandiyan-Veerasamy?ev=hdr_xprf" target="_blank" rel="noopener" style="display: flex; align-items: center; gap: 8px;">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg> ResearchGate
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                &copy; 2026 Dr. Veerapandiyan Veerasamy. All Rights Reserved.
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // View Switching Logic
+        function switchPubView(view) {
+            const expBtn = document.getElementById('tab-explorer-btn');
+            const ifrBtn = document.getElementById('tab-iframe-btn');
+            const expView = document.getElementById('view-explorer');
+            const ifrView = document.getElementById('view-iframe');
+
+            if (view === 'explorer') {
+                expBtn.className = 'btn';
+                ifrBtn.className = 'btn btn-secondary';
+                expView.style.display = 'block';
+                ifrView.style.display = 'none';
+            } else {
+                expBtn.className = 'btn btn-secondary';
+                ifrBtn.className = 'btn';
+                expView.style.display = 'none';
+                ifrView.style.display = 'block';
+            }
+        }
+
+        function toggleEmbedCodeBox() {
+            const box = document.getElementById('embed-code-box');
+            box.style.display = (box.style.display === 'none' || box.style.display === '') ? 'block' : 'none';
+        }
+
+        function copyIframeHtml() {
+            const code = document.getElementById('embed-code-snippet').textContent;
+            navigator.clipboard.writeText(code).then(() => {
+                const toast = document.getElementById('scholar-toast');
+                toast.innerHTML = '<span>Iframe code snippet copied to clipboard!</span>';
+                toast.classList.add('show');
+                setTimeout(() => toast.classList.remove('show'), 3000);
+            });
+        }
+
+        function reloadScholarIframe() {
+            const frame = document.getElementById('scholar-publications-frame');
+            if (frame) frame.src = frame.src;
+        }
+
+        // Parent window listener for iframe auto-resizing
+        window.addEventListener('message', (event) => {
+            if (event.data && event.data.type === 'scholar-embed-resize') {
+                const frame = document.getElementById('scholar-publications-frame');
+                if (frame && event.data.height) {
+                    frame.style.height = (event.data.height + 40) + 'px';
+                }
+            }
+        });
+    </script>
+</body>
+</html>
+

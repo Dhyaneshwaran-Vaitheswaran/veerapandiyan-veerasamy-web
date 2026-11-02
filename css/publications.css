@@ -1,0 +1,837 @@
+/* ==========================================================================
+   Google Scholar Publications & Embed Stylesheet
+   Theme: Dr. Veerapandiyan Veerasamy Academic Profile
+   ========================================================================== */
+
+:root {
+    --primary-color: #0f4c81;
+    --secondary-color: #1a63a5;
+    --accent-color: #f39c12;
+    --accent-light: #fff8eb;
+    --accent-hover: #d68910;
+    --bg-color: #ffffff;
+    --bg-alt: #f8fafc;
+    --text-main: #1e293b;
+    --text-light: #64748b;
+    --text-muted: #94a3b8;
+    --border-color: #e2e8f0;
+    --border-hover: #cbd5e1;
+    --card-bg: #ffffff;
+    --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+    --card-shadow-hover: 0 10px 20px -5px rgba(15, 76, 129, 0.12), 0 6px 10px -5px rgba(0, 0, 0, 0.04);
+    --scholar-blue: #4285f4;
+    --scholar-dark: #1a73e8;
+    --scholar-bg: #e8f0fe;
+    --success-color: #10b981;
+    --badge-gray: #f1f5f9;
+}
+
+/* --------------------------------------------------------------------------
+   Scholar Overview & Metrics Bar
+   -------------------------------------------------------------------------- */
+.scholar-metrics-panel {
+    background: #ffffff;
+    border: 1px solid var(--border-color);
+    border-radius: 14px;
+    padding: 1.75rem;
+    margin-bottom: 2.5rem;
+    box-shadow: var(--card-shadow);
+}
+
+.scholar-badge-banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding-bottom: 1.25rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.scholar-profile-lead {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+
+.scholar-icon-bubble {
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    background: #e8f0fe;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--scholar-dark);
+    flex-shrink: 0;
+}
+
+.scholar-lead-text h3 {
+    margin: 0;
+    font-size: 1.3rem;
+    color: var(--primary-color);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.scholar-lead-text p {
+    margin: 2px 0 0;
+    font-size: 0.9rem;
+    color: var(--text-light);
+}
+
+.top-scientist-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: #fff8eb;
+    color: #b45309;
+    border: 1px solid #fde68a;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+/* Metrics Grid */
+.metrics-stat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    gap: 1.25rem;
+    margin-bottom: 1.75rem;
+}
+
+.metric-stat-card {
+    background: var(--bg-alt);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.25rem;
+    text-align: center;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.metric-stat-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.06);
+}
+
+.metric-stat-card .stat-number {
+    font-size: 2.1rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    line-height: 1.1;
+    font-family: var(--font-heading);
+}
+
+.metric-stat-card .stat-label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--text-main);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-top: 4px;
+}
+
+.metric-stat-card .stat-sub {
+    font-size: 0.75rem;
+    color: var(--text-light);
+    margin-top: 3px;
+}
+
+/* Yearly Citation Chart */
+.citation-chart-container {
+    background: #ffffff;
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    margin-top: 1rem;
+}
+
+.chart-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.chart-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--text-main);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.chart-bars-wrap {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    height: 120px;
+    gap: 12px;
+    padding-top: 15px;
+}
+
+.chart-bar-group {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    justify-content: flex-end;
+    position: relative;
+    cursor: pointer;
+}
+
+.chart-bar-fill {
+    width: 100%;
+    max-width: 42px;
+    background: linear-gradient(180deg, var(--secondary-color) 0%, var(--primary-color) 100%);
+    border-radius: 6px 6px 0 0;
+    transition: height 0.6s cubic-bezier(0.4, 0, 0.2, 1), background 0.2s ease;
+    min-height: 4px;
+    position: relative;
+}
+
+.chart-bar-group:hover .chart-bar-fill {
+    background: linear-gradient(180deg, var(--accent-color) 0%, #d97706 100%);
+}
+
+.chart-bar-count {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--text-light);
+    margin-bottom: 4px;
+    transition: color 0.2s ease;
+}
+
+.chart-bar-group:hover .chart-bar-count {
+    color: var(--accent-color);
+}
+
+.chart-bar-year {
+    font-size: 0.75rem;
+    color: var(--text-light);
+    margin-top: 6px;
+    font-weight: 500;
+}
+
+/* --------------------------------------------------------------------------
+   Filter & Search Toolbar
+   -------------------------------------------------------------------------- */
+.publications-toolbar {
+    background: #ffffff;
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.25rem;
+    margin-bottom: 1.75rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.03);
+}
+
+.toolbar-search-row {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+}
+
+.search-input-wrapper {
+    position: relative;
+    flex: 1;
+    min-width: 250px;
+}
+
+.search-input-wrapper svg.search-icon {
+    position: absolute;
+    left: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text-muted);
+    pointer-events: none;
+}
+
+.search-input {
+    width: 100%;
+    padding: 12px 14px 12px 42px;
+    font-size: 0.95rem;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    outline: none;
+    transition: border-color 0.2s, box-shadow 0.2s;
+    background: var(--bg-alt);
+    font-family: inherit;
+    color: var(--text-main);
+}
+
+.search-input:focus {
+    border-color: var(--primary-color);
+    background: #ffffff;
+    box-shadow: 0 0 0 3px rgba(15, 76, 129, 0.12);
+}
+
+.search-clear-btn {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 1.1rem;
+    display: none;
+    padding: 2px 6px;
+}
+
+.search-clear-btn:hover {
+    color: var(--text-main);
+}
+
+.sort-select-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.sort-label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--text-light);
+    white-space: nowrap;
+}
+
+.sort-select {
+    padding: 11px 14px;
+    font-size: 0.9rem;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    background: #ffffff;
+    color: var(--text-main);
+    font-family: inherit;
+    cursor: pointer;
+    outline: none;
+}
+
+.sort-select:focus {
+    border-color: var(--primary-color);
+}
+
+/* Filter Chips */
+.filter-chips-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+}
+
+.filter-chip-label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-right: 4px;
+}
+
+.filter-chip {
+    background: var(--badge-gray);
+    color: var(--text-light);
+    border: 1px solid transparent;
+    border-radius: 20px;
+    padding: 5px 14px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    user-select: none;
+}
+
+.filter-chip:hover {
+    background: #e2e8f0;
+    color: var(--text-main);
+}
+
+.filter-chip.active {
+    background: var(--primary-color);
+    color: #ffffff;
+    border-color: var(--primary-color);
+    box-shadow: 0 2px 4px rgba(15, 76, 129, 0.2);
+}
+
+.filter-chip .chip-count {
+    display: inline-block;
+    margin-left: 4px;
+    font-size: 0.75rem;
+    opacity: 0.8;
+}
+
+/* Results Meta Banner */
+.results-meta-banner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 4px;
+    margin-bottom: 1.25rem;
+    font-size: 0.9rem;
+    color: var(--text-light);
+}
+
+.results-count strong {
+    color: var(--primary-color);
+}
+
+.active-filter-desc {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+}
+
+/* --------------------------------------------------------------------------
+   Publication Cards
+   -------------------------------------------------------------------------- */
+.publications-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+}
+
+.publication-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: var(--card-shadow);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.publication-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--card-shadow-hover);
+    border-color: #cbd5e1;
+}
+
+.pub-card-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.pub-badges-wrap {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+}
+
+.pub-year-badge {
+    background: var(--primary-color);
+    color: #ffffff;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 6px;
+    letter-spacing: 0.5px;
+}
+
+.pub-type-badge {
+    background: #e0f2fe;
+    color: #0369a1;
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 6px;
+}
+
+.pub-tag-badge {
+    background: var(--badge-gray);
+    color: var(--text-light);
+    font-size: 0.75rem;
+    font-weight: 500;
+    padding: 2px 8px;
+    border-radius: 6px;
+}
+
+.pub-citations-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    background: #fef3c7;
+    color: #92400e;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 20px;
+    border: 1px solid #fde68a;
+    text-decoration: none;
+    transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.pub-citations-badge:hover {
+    background: #fde68a;
+    transform: scale(1.03);
+    text-decoration: none;
+}
+
+.pub-title {
+    margin: 0;
+    font-size: 1.15rem;
+    font-weight: 600;
+    line-height: 1.4;
+    color: var(--primary-color);
+}
+
+.pub-title a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.pub-title a:hover {
+    color: var(--secondary-color);
+    text-decoration: underline;
+}
+
+.pub-authors {
+    margin: 0;
+    font-size: 0.92rem;
+    color: var(--text-light);
+    line-height: 1.5;
+}
+
+.pub-authors .author-highlight {
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+.pub-venue {
+    margin: 0;
+    font-size: 0.92rem;
+    color: #475569;
+    font-style: italic;
+    line-height: 1.4;
+}
+
+/* Pub Actions */
+.pub-actions {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 0.25rem;
+    flex-wrap: wrap;
+}
+
+.pub-action-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: #ffffff;
+    border: 1px solid var(--border-color);
+    color: var(--text-light);
+    font-size: 0.8rem;
+    font-weight: 500;
+    padding: 5px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-decoration: none;
+}
+
+.pub-action-btn:hover {
+    background: var(--bg-alt);
+    color: var(--primary-color);
+    border-color: #cbd5e1;
+    text-decoration: none;
+}
+
+.pub-action-btn.btn-scholar {
+    color: var(--scholar-dark);
+    background: var(--scholar-bg);
+    border-color: #d2e3fc;
+}
+
+.pub-action-btn.btn-scholar:hover {
+    background: #d2e3fc;
+}
+
+/* --------------------------------------------------------------------------
+   Iframe Container & Embed Controls
+   -------------------------------------------------------------------------- */
+.scholar-iframe-wrapper {
+    background: #ffffff;
+    border: 1px solid var(--border-color);
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.06);
+    margin: 2.5rem 0;
+}
+
+.scholar-iframe-header {
+    background: #f8fafc;
+    border-bottom: 1px solid var(--border-color);
+    padding: 1rem 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.scholar-iframe-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.scholar-iframe-title svg {
+    color: var(--scholar-dark);
+}
+
+.scholar-iframe-title h4 {
+    margin: 0;
+    font-size: 1.05rem;
+    color: var(--primary-color);
+}
+
+.scholar-iframe-title p {
+    margin: 0;
+    font-size: 0.8rem;
+    color: var(--text-light);
+}
+
+.scholar-iframe-controls {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.frame-ctrl-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 14px;
+    background: #ffffff;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--text-main);
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.frame-ctrl-btn:hover {
+    background: var(--bg-alt);
+    color: var(--primary-color);
+    border-color: var(--primary-color);
+    text-decoration: none;
+}
+
+.scholar-frame {
+    width: 100%;
+    min-height: 750px;
+    height: 850px;
+    border: none;
+    display: block;
+    background: #ffffff;
+    transition: height 0.3s ease;
+}
+
+/* --------------------------------------------------------------------------
+   Embed Code Snippet Modal & Box
+   -------------------------------------------------------------------------- */
+.embed-snippet-box {
+    background: #1e293b;
+    color: #e2e8f0;
+    border-radius: 10px;
+    padding: 1.25rem;
+    margin-top: 1.5rem;
+    position: relative;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    font-size: 0.85rem;
+    line-height: 1.5;
+    overflow-x: auto;
+}
+
+.embed-snippet-box pre {
+    margin: 0;
+}
+
+.copy-snippet-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: rgba(255,255,255,0.15);
+    color: #ffffff;
+    border: 1px solid rgba(255,255,255,0.25);
+    border-radius: 6px;
+    padding: 4px 10px;
+    font-size: 0.75rem;
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
+
+.copy-snippet-btn:hover {
+    background: rgba(255,255,255,0.3);
+}
+
+/* --------------------------------------------------------------------------
+   Toast Notification
+   -------------------------------------------------------------------------- */
+.scholar-toast {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    background: #1e293b;
+    color: #ffffff;
+    padding: 12px 20px;
+    border-radius: 8px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    z-index: 9999;
+    opacity: 0;
+    transform: translateY(15px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    pointer-events: none;
+}
+
+.scholar-toast.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.scholar-toast svg {
+    color: #10b981;
+}
+
+/* --------------------------------------------------------------------------
+   BibTeX Modal
+   -------------------------------------------------------------------------- */
+.bibtex-modal-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(2px);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 10000;
+    padding: 1rem;
+}
+
+.bibtex-modal {
+    background: #ffffff;
+    border-radius: 12px;
+    width: 100%;
+    max-width: 600px;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    animation: modalFadeIn 0.2s ease-out;
+}
+
+@keyframes modalFadeIn {
+    from { opacity: 0; transform: scale(0.95); }
+    to { opacity: 1; transform: scale(1); }
+}
+
+.bibtex-modal-header {
+    background: #f8fafc;
+    border-bottom: 1px solid var(--border-color);
+    padding: 1rem 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bibtex-modal-header h4 {
+    margin: 0;
+    font-size: 1.1rem;
+    color: var(--primary-color);
+}
+
+.bibtex-modal-close {
+    background: none;
+    border: none;
+    font-size: 1.4rem;
+    color: var(--text-light);
+    cursor: pointer;
+    line-height: 1;
+}
+
+.bibtex-modal-body {
+    padding: 1.5rem;
+}
+
+.bibtex-code-area {
+    width: 100%;
+    height: 180px;
+    background: #f1f5f9;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 1rem;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    font-size: 0.85rem;
+    resize: none;
+    outline: none;
+    color: #1e293b;
+}
+
+.bibtex-modal-footer {
+    padding: 1rem 1.5rem;
+    background: #f8fafc;
+    border-top: 1px solid var(--border-color);
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+/* --------------------------------------------------------------------------
+   Responsive adjustments
+   -------------------------------------------------------------------------- */
+@media (max-width: 768px) {
+    .metrics-stat-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .chart-bars-wrap {
+        height: 90px;
+        gap: 6px;
+    }
+    
+    .chart-bar-fill {
+        max-width: 28px;
+    }
+    
+    .toolbar-search-row {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .search-input-wrapper {
+        min-width: 100%;
+    }
+    
+    .sort-select-wrapper {
+        justify-content: space-between;
+    }
+    
+    .scholar-frame {
+        height: 650px;
+        min-height: 550px;
+    }
+}
+

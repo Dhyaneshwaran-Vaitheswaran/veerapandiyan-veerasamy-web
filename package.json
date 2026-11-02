@@ -1,0 +1,18 @@
+{
+  "name": "veerapandiyan-veerasamy-web",
+  "version": "1.0.0",
+  "description": "Academic website and Google Scholar publications portal of Dr. Veerapandiyan Veerasamy",
+  "scripts": {
+    "start": "node local_server.js",
+    "update-scholar": "node update_scholar.js"
+  },
+  "keywords": [
+    "academic",
+    "publications",
+    "cybersecurity",
+    "google-scholar",
+    "curtin-university"
+  ],
+  "author": "Dr. Veerapandiyan Veerasamy",
+  "license": "ISC"
+}
